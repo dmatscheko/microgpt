@@ -19,8 +19,14 @@ random.seed(42)  # Let there be order among chaos
 parser = argparse.ArgumentParser(description="Train or inference a micro GPT in pure Python.")
 parser.add_argument("--checkpoint", type=str, default="model_checkpoint.json", help="Path to checkpoint file (default: model_checkpoint.json)")
 parser.add_argument("--continue-training", action="store_true", help="Continue training from checkpoint instead of skipping or inferencing only.")
+parser.add_argument(
+    "--activation", type=str, default="relu", choices=["relu", "gelu", "silu", "tanh"], help="Activation function to use in the MLP block (default: relu)"
+)
 args = parser.parse_args()
 CHECKPOINT_FILE = args.checkpoint
+ACTIVATION = args.activation
+
+print(f"Using activation function: {ACTIVATION.upper()} in MLP layers")
 
 # Let there be a Dataset `docs`: list[str] of documents (e.g. a list of names)
 if not os.path.exists("input.txt"):
@@ -72,8 +78,27 @@ class Value:
     def exp(self):
         return Value(math.exp(self.data), (self,), (math.exp(self.data),))
 
+    # Configurable activations
     def relu(self):
+        # ReLU
         return Value(max(0, self.data), (self,), (float(self.data > 0),))
+
+    def tanh(self):
+        # Tanh
+        t = math.tanh(self.data)
+        return Value(t, (self,), (1 - t * t,))
+
+    def silu(self):
+        # SiLU / Swish = x * sigmoid(x)
+        sig = Value(1.0) / (Value(1.0) + (-self).exp())
+        return self * sig
+
+    def gelu(self):
+        # GELU approximation (standard in transformers, matches PyTorch/TF)
+        sqrt_2_over_pi = math.sqrt(2 / math.pi)
+        coeff = 0.044715
+        inner = sqrt_2_over_pi * (self + coeff * self**3)
+        return 0.5 * self * (Value(1.0) + inner.tanh())
 
     def __neg__(self):
         return self * -1
@@ -112,6 +137,16 @@ class Value:
         for v in reversed(topo):
             for child, local_grad in zip(v._children, v._local_grads):
                 child.grad += local_grad * v.grad
+
+
+# Bind activation function once
+activation_map = {
+    "relu": Value.relu,
+    "gelu": Value.gelu,
+    "silu": Value.silu,
+    "tanh": Value.tanh,
+}
+Value.activate = activation_map.get(ACTIVATION, Value.relu)
 
 
 # Initialize the parameters, to store the knowledge of the model
@@ -176,7 +211,8 @@ def load_checkpoint(path):
 
 
 # Define the model architecture: a function mapping tokens and parameters to logits over what comes next
-# Follow GPT-2, blessed among the GPTs, with minor differences: layernorm -> rmsnorm, no biases, GeLU -> ReLU
+# Follow GPT-2, blessed among the GPTs, with minor differences: layernorm -> rmsnorm, no biases,
+# and a configurable activation function (ReLU / GELU / SiLU / tanh)
 def linear(x, w):
     return [sum(wi * xi for wi, xi in zip(wo, x)) for wo in w]
 
@@ -225,7 +261,7 @@ def gpt(token_id, pos_id, keys, values):
         x_residual = x
         x = rmsnorm(x)
         x = linear(x, state_dict[f"layer{li}.mlp_fc1"])
-        x = [xi.relu() for xi in x]
+        x = [xi.activate() for xi in x]
         x = linear(x, state_dict[f"layer{li}.mlp_fc2"])
         x = [a + b for a, b in zip(x, x_residual)]
 
