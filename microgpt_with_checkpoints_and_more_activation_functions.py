@@ -20,7 +20,11 @@ parser = argparse.ArgumentParser(description="Train or inference a micro GPT in 
 parser.add_argument("--checkpoint", type=str, default="model_checkpoint.json", help="Path to checkpoint file (default: model_checkpoint.json)")
 parser.add_argument("--continue-training", action="store_true", help="Continue training from checkpoint instead of skipping or inferencing only.")
 parser.add_argument(
-    "--activation", type=str, default="relu", choices=["relu", "gelu", "silu", "tanh"], help="Activation function to use in the MLP block (default: relu)"
+    "--activation",
+    type=str,
+    default="relu",
+    choices=["relu", "gelu", "silu", "tanh", "sigmoid", "leaky_relu", "elu", "selu", "softplus", "mish"],
+    help="Activation function to use in the MLP block (default: relu)",
 )
 args = parser.parse_args()
 CHECKPOINT_FILE = args.checkpoint
@@ -80,25 +84,63 @@ class Value:
 
     # Configurable activations
     def relu(self):
-        # ReLU
+        """ReLU"""
         return Value(max(0, self.data), (self,), (float(self.data > 0),))
 
     def tanh(self):
-        # Tanh
+        """Tanh"""
         t = math.tanh(self.data)
         return Value(t, (self,), (1 - t * t,))
 
     def silu(self):
-        # SiLU / Swish = x * sigmoid(x)
+        """SiLU / Swish = x * sigmoid(x)"""
         sig = Value(1.0) / (Value(1.0) + (-self).exp())
         return self * sig
 
     def gelu(self):
-        # GELU approximation (standard in transformers, matches PyTorch/TF)
+        """GELU approximation (standard in transformers, matches PyTorch/TF)"""
         sqrt_2_over_pi = math.sqrt(2 / math.pi)
         coeff = 0.044715
         inner = sqrt_2_over_pi * (self + coeff * self**3)
         return 0.5 * self * (Value(1.0) + inner.tanh())
+
+    def sigmoid(self):
+        """Sigmoid: 1 / (1 + exp(-x))"""
+        return Value(1.0) / (Value(1.0) + (-self).exp())
+
+    def leaky_relu(self, alpha=0.01):
+        """Leaky ReLU (alpha=0.01 by default)"""
+        if self.data > 0:
+            return Value(self.data, (self,), (1.0,))
+        else:
+            return Value(alpha * self.data, (self,), (alpha,))
+
+    def elu(self, alpha=1.0):
+        """ELU: x if x > 0 else alpha*(exp(x)-1)"""
+        if self.data > 0:
+            return Value(self.data, (self,), (1.0,))
+        else:
+            exp_val = math.exp(self.data)
+            return Value(alpha * (exp_val - 1), (self,), (alpha * exp_val,))
+
+    def selu(self):
+        """SELU with standard constants (λ≈1.0507, α≈1.67326)"""
+        lam = 1.0507009873554804934193349852946
+        alpha = 1.6732632423543772848170429916717
+        if self.data > 0:
+            return Value(lam * self.data, (self,), (lam,))
+        else:
+            exp_val = math.exp(self.data)
+            return Value(lam * alpha * (exp_val - 1), (self,), (lam * alpha * exp_val,))
+
+    def softplus(self):
+        """Softplus: log(1 + exp(x))"""
+        return (Value(1.0) + self.exp()).log()
+
+    def mish(self):
+        """Mish: x * tanh(softplus(x))"""
+        soft = (Value(1.0) + self.exp()).log()
+        return self * soft.tanh()
 
     def __neg__(self):
         return self * -1
@@ -145,6 +187,12 @@ activation_map = {
     "gelu": Value.gelu,
     "silu": Value.silu,
     "tanh": Value.tanh,
+    "sigmoid": Value.sigmoid,
+    "leaky_relu": Value.leaky_relu,
+    "elu": Value.elu,
+    "selu": Value.selu,
+    "softplus": Value.softplus,
+    "mish": Value.mish,
 }
 Value.activate = activation_map.get(ACTIVATION, Value.relu)
 
@@ -212,7 +260,7 @@ def load_checkpoint(path):
 
 # Define the model architecture: a function mapping tokens and parameters to logits over what comes next
 # Follow GPT-2, blessed among the GPTs, with minor differences: layernorm -> rmsnorm, no biases,
-# and a configurable activation function (ReLU / GELU / SiLU / tanh)
+# and a configurable activation function
 def linear(x, w):
     return [sum(wi * xi for wi, xi in zip(wo, x)) for wo in w]
 
