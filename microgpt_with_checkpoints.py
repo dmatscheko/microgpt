@@ -4,13 +4,23 @@ This file is the complete algorithm.
 Everything else is just efficiency.
 
 @karpathy  |  https://karpathy.ai/microgpt.html
+@dma: checkpointing and resuming training.
 """
 
 import os  # os.path.exists
 import math  # math.log, math.exp
 import random  # random.seed, random.choices, random.gauss, random.shuffle
+import json
+import argparse
 
 random.seed(42)  # Let there be order among chaos
+
+# Parse command-line args
+parser = argparse.ArgumentParser(description="Train or inference a micro GPT in pure Python.")
+parser.add_argument("--checkpoint", type=str, default="model_checkpoint.json", help="Path to checkpoint file (default: model_checkpoint.json)")
+parser.add_argument("--continue-training", action="store_true", help="Continue training from checkpoint instead of skipping or inferencing only.")
+args = parser.parse_args()
+CHECKPOINT_FILE = args.checkpoint
 
 # Let there be a Dataset `docs`: list[str] of documents (e.g. a list of names)
 if not os.path.exists("input.txt"):
@@ -23,10 +33,16 @@ random.shuffle(docs)
 print(f"num docs: {len(docs)}")
 
 # Let there be a Tokenizer to translate strings to sequences of integers ("tokens") and back
-uchars = sorted(set("".join(docs)))  # unique characters in the dataset become token ids 0..n-1
+if os.path.exists(CHECKPOINT_FILE):
+    with open(CHECKPOINT_FILE) as f:
+        cp = json.load(f)
+    uchars = cp["uchars"]
+    print(f"vocab size: {len(uchars) + 1} (from checkpoint)")
+else:
+    uchars = sorted(set("".join(docs)))  # unique characters in the dataset become token ids 0..n-1
+    print(f"vocab size: {len(uchars) + 1}")
 BOS = len(uchars)  # token id for a special Beginning of Sequence (BOS) token
 vocab_size = len(uchars) + 1  # total number of unique tokens, +1 is for BOS
-print(f"vocab size: {vocab_size}")
 
 
 # Let there be Autograd to recursively apply the chain rule through a computation graph
@@ -104,17 +120,59 @@ n_embd = 16  # width of the network (embedding dimension)
 block_size = 16  # maximum context length of the attention window (note: the longest name is 15 characters)
 n_head = 4  # number of attention heads
 head_dim = n_embd // n_head  # derived dimension of each head
-matrix = lambda nout, nin, std=0.08: [[Value(random.gauss(0, std)) for _ in range(nin)] for _ in range(nout)]
-state_dict = {"wte": matrix(vocab_size, n_embd), "wpe": matrix(block_size, n_embd), "lm_head": matrix(vocab_size, n_embd)}
-for i in range(n_layer):
-    state_dict[f"layer{i}.attn_wq"] = matrix(n_embd, n_embd)
-    state_dict[f"layer{i}.attn_wk"] = matrix(n_embd, n_embd)
-    state_dict[f"layer{i}.attn_wv"] = matrix(n_embd, n_embd)
-    state_dict[f"layer{i}.attn_wo"] = matrix(n_embd, n_embd)
-    state_dict[f"layer{i}.mlp_fc1"] = matrix(4 * n_embd, n_embd)
-    state_dict[f"layer{i}.mlp_fc2"] = matrix(n_embd, 4 * n_embd)
-params = [p for mat in state_dict.values() for row in mat for p in row]  # flatten params into a single list[Value]
-print(f"num params: {len(params)}")
+
+
+def matrix(nout, nin, std=0.08):
+    return [[Value(random.gauss(0, std)) for _ in range(nin)] for _ in range(nout)]
+
+
+def create_model(vsize):
+    state_dict = {"wte": matrix(vsize, n_embd), "wpe": matrix(block_size, n_embd), "lm_head": matrix(vsize, n_embd)}
+    for i in range(n_layer):
+        state_dict[f"layer{i}.attn_wq"] = matrix(n_embd, n_embd)
+        state_dict[f"layer{i}.attn_wk"] = matrix(n_embd, n_embd)
+        state_dict[f"layer{i}.attn_wv"] = matrix(n_embd, n_embd)
+        state_dict[f"layer{i}.attn_wo"] = matrix(n_embd, n_embd)
+        state_dict[f"layer{i}.mlp_fc1"] = matrix(4 * n_embd, n_embd)
+        state_dict[f"layer{i}.mlp_fc2"] = matrix(n_embd, 4 * n_embd)
+    params = [p for mat in state_dict.values() for row in mat for p in row]  # flatten params into a single list[Value]
+    print(f"num params: {len(params)}")
+    return state_dict, params
+
+
+# Checkpoint helpers
+def save_checkpoint(path, state_dict, uchars, m, v, step):
+    """Serialize model + vocab + Adam state."""
+    serialized = {key: [[p.data for p in row] for row in mat] for key, mat in state_dict.items()}
+    checkpoint = {
+        "uchars": uchars,
+        "state_dict": serialized,
+        "m": m,
+        "v": v,
+        "step": step,
+    }
+    with open(path, "w") as f:
+        json.dump(checkpoint, f)
+    print(f"checkpoint saved → {path}")
+
+
+def load_checkpoint(path):
+    """Restore model weights + Adam state. Returns (state_dict, params, m, v, step)."""
+    with open(path) as f:
+        cp = json.load(f)
+    uchars_local = cp["uchars"]
+    vsize = len(uchars_local) + 1
+    state_dict, params = create_model(vsize)
+    saved_sd = cp["state_dict"]
+    for key, mat in state_dict.items():
+        for row, saved_row in zip(mat, saved_sd[key]):
+            for p, val in zip(row, saved_row):
+                p.data = val
+    m = cp.get("m", [0.0] * len(params))
+    v = cp.get("v", [0.0] * len(params))
+    step = cp.get("step", 0)
+    print(f"checkpoint loaded ← {path}")
+    return state_dict, params, m, v, step
 
 
 # Define the model architecture: a function mapping tokens and parameters to logits over what comes next
@@ -177,42 +235,64 @@ def gpt(token_id, pos_id, keys, values):
 
 # Let there be Adam, the blessed optimizer and its buffers
 learning_rate, beta1, beta2, eps_adam = 0.01, 0.85, 0.99, 1e-8
-m = [0.0] * len(params)  # first moment buffer
-v = [0.0] * len(params)  # second moment buffer
+
+# Initialize or load the model
+if os.path.exists(CHECKPOINT_FILE):
+    if args.continue_training:
+        print(f"Found existing checkpoint: {CHECKPOINT_FILE}")
+        print("Continuing training...")
+        state_dict, params, m, v, step_start = load_checkpoint(CHECKPOINT_FILE)
+        do_training = True
+    else:
+        print(f"Found existing checkpoint: {CHECKPOINT_FILE}")
+        state_dict, params, m, v, step_start = load_checkpoint(CHECKPOINT_FILE)
+        do_training = False
+else:
+    if args.continue_training:
+        print(f"⚠️ No checkpoint found at {CHECKPOINT_FILE}. Starting new training.")
+    state_dict, params = create_model(vocab_size)
+    m = [0.0] * len(params)
+    v = [0.0] * len(params)
+    step_start = 0
+    do_training = True
 
 # Repeat in sequence
-num_steps = 1000  # number of training steps
-for step in range(num_steps):
-    # Take single document, tokenize it, surround it with BOS special token on both sides
-    doc = docs[step % len(docs)]
-    tokens = [BOS] + [uchars.index(ch) for ch in doc] + [BOS]
-    n = min(block_size, len(tokens) - 1)
+if do_training:
+    num_steps = 1000 + step_start  # extend total steps if resuming
+    print(f"Training for {num_steps - step_start} steps (resume from step {step_start})...")
+    for step in range(step_start, num_steps):
+        # Take single document, tokenize it, surround it with BOS special token on both sides
+        doc = docs[step % len(docs)]
+        tokens = [BOS] + [uchars.index(ch) for ch in doc] + [BOS]
+        n = min(block_size, len(tokens) - 1)
 
-    # Forward the token sequence through the model, building up the computation graph all the way to the loss
-    keys, values = [[] for _ in range(n_layer)], [[] for _ in range(n_layer)]
-    losses = []
-    for pos_id in range(n):
-        token_id, target_id = tokens[pos_id], tokens[pos_id + 1]
-        logits = gpt(token_id, pos_id, keys, values)
-        probs = softmax(logits)
-        loss_t = -probs[target_id].log()
-        losses.append(loss_t)
-    loss = (1 / n) * sum(losses)  # final average loss over the document sequence. May yours be low.
+        # Forward the token sequence through the model, building up the computation graph all the way to the loss
+        keys, values = [[] for _ in range(n_layer)], [[] for _ in range(n_layer)]
+        losses = []
+        for pos_id in range(n):
+            token_id, target_id = tokens[pos_id], tokens[pos_id + 1]
+            logits = gpt(token_id, pos_id, keys, values)
+            probs = softmax(logits)
+            loss_t = -probs[target_id].log()
+            losses.append(loss_t)
+        loss = (1 / n) * sum(losses)  # final average loss over the document sequence. May yours be low.
 
-    # Backward the loss, calculating the gradients with respect to all model parameters
-    loss.backward()
+        # Backward the loss, calculating the gradients with respect to all model parameters
+        loss.backward()
 
-    # Adam optimizer update: update the model parameters based on the corresponding gradients
-    lr_t = learning_rate * (1 - step / num_steps)  # linear learning rate decay
-    for i, p in enumerate(params):
-        m[i] = beta1 * m[i] + (1 - beta1) * p.grad
-        v[i] = beta2 * v[i] + (1 - beta2) * p.grad**2
-        m_hat = m[i] / (1 - beta1 ** (step + 1))
-        v_hat = v[i] / (1 - beta2 ** (step + 1))
-        p.data -= lr_t * m_hat / (v_hat**0.5 + eps_adam)
-        p.grad = 0
+        # Adam optimizer update: update the model parameters based on the corresponding gradients
+        lr_t = learning_rate * (1 - step / num_steps)  # linear learning rate decay
+        for i, p in enumerate(params):
+            m[i] = beta1 * m[i] + (1 - beta1) * p.grad
+            v[i] = beta2 * v[i] + (1 - beta2) * p.grad**2
+            m_hat = m[i] / (1 - beta1 ** (step + 1))
+            v_hat = v[i] / (1 - beta2 ** (step + 1))
+            p.data -= lr_t * m_hat / (v_hat**0.5 + eps_adam)
+            p.grad = 0
 
-    print(f"step {step + 1:4d} / {num_steps:4d} | loss {loss.data:.4f}", end="\r")
+        print(f"step {step + 1:4d} / {num_steps:4d} | loss {loss.data:.4f}", end="\r")
+    # Save checkpoint
+    save_checkpoint(CHECKPOINT_FILE, state_dict, uchars, m, v, num_steps - 1)
 
 # Inference: may the model babble back to us
 temperature = 0.5  # in (0, 1], control the "creativity" of generated text, low to high
