@@ -199,21 +199,15 @@ class Value:
         else:
             return Value(z - 0.99 * n, (self,), (1.0,))
 
-    def dma4(self, n=0.25):  # not good if used without pruning
-        """DMA4 (custom piecewise linear activation):
-        dma4(z) =
-            0.5z + 0.5n    if z < -n
-            0.0z           if -n <= z < n
-            z - 1.0n       if z >= n
-
-        Default n=0.25 (you can change the default or call .dma4(n=other_value) manually).
-        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
-        """
+    def dma4(self, n=0.25):
+        """DMA4 with sparse propagation: the dead zone [-n, n) produces a fully
+        disconnected zero node — no children, no gradient flow.  Only the two
+        outer regions (which have non-zero output) stay wired into the graph."""
         z = self.data
         if z < -n:
             return Value(0.5 * z + 0.5 * n, (self,), (0.5,))
         elif z < n:
-            return Value(0.0 * z, (self,), (0.0,))
+            return Value(0.0)  # <- dead node: no children, backprop stops here
         else:
             return Value(z - 1.0 * n, (self,), (1.0,))
 
