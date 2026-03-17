@@ -23,7 +23,7 @@ parser.add_argument(
     "--activation",
     type=str,
     default="relu",
-    choices=["relu", "gelu", "silu", "tanh", "sigmoid", "leaky_relu", "elu", "selu", "softplus", "mish"],
+    choices=["relu", "gelu", "silu", "tanh", "sigmoid", "leaky_relu", "elu", "selu", "softplus", "mish", "dma1", "dma2", "dma3", "dma4"],
     help="Activation function to use in the MLP block (default: relu)",
 )
 args = parser.parse_args()
@@ -142,6 +142,81 @@ class Value:
         soft = (Value(1.0) + self.exp()).log()
         return self * soft.tanh()
 
+    def dma1(self, n=0.25):
+        """DMA1 (custom piecewise linear activation):
+        dma1(z) =
+            0.5z + 0.49n    if z < -n
+            0.01z           if -n <= z < n
+            z - 0.99n       if z >= n
+
+        Default n=0.25 (you can change the default or call .dma1(n=other_value) manually).
+        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
+        """
+        z = self.data
+        if z < -n:
+            return Value(0.5 * z + 0.49 * n, (self,), (0.5,))
+        elif z < n:
+            return Value(0.01 * z, (self,), (0.01,))
+        else:
+            return Value(z - 0.99 * n, (self,), (1.0,))
+
+    def dma2(self, n=0.25):
+        """DMA2 (custom piecewise linear activation):
+        dma2(z) =
+            0.5z + 0.51n    if z < -n
+            -0.01z          if -n <= z < n
+            z - 1.01n       if z >= n
+
+        Default n=0.25 (you can change the default or call .dma2(n=other_value) manually).
+        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
+        """
+        z = self.data
+        if z < -n:
+            return Value(0.5 * z + 0.51 * n, (self,), (0.5,))
+        elif z < n:
+            return Value(-0.01 * z, (self,), (-0.01,))
+        else:
+            return Value(z - 1.01 * n, (self,), (1.0,))
+
+    def dma3(self, n=0.25):
+        """DMA3 (custom piecewise linear activation):
+        dma3(z) =
+            0.5z + 0.51n    if z < -n
+            -0.01z          if -n <= z < 0
+            0.01z           if 0 <= z < n
+            z - 0.99n       if z >= n
+
+        Default n=0.25 (you can change the default or call .dma3(n=other_value) manually).
+        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
+        """
+        z = self.data
+        if z < -n:
+            return Value(0.5 * z + 0.51 * n, (self,), (0.5,))
+        elif z < 0:
+            return Value(-0.01 * z, (self,), (-0.01,))
+        elif z < n:
+            return Value(0.01 * z, (self,), (0.01,))
+        else:
+            return Value(z - 0.99 * n, (self,), (1.0,))
+
+    def dma4(self, n=0.25):  # not good if used without pruning
+        """DMA4 (custom piecewise linear activation):
+        dma4(z) =
+            0.5z + 0.5n    if z < -n
+            0.0z           if -n <= z < n
+            z - 1.0n       if z >= n
+
+        Default n=0.25 (you can change the default or call .dma4(n=other_value) manually).
+        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
+        """
+        z = self.data
+        if z < -n:
+            return Value(0.5 * z + 0.5 * n, (self,), (0.5,))
+        elif z < n:
+            return Value(0.0 * z, (self,), (0.0,))
+        else:
+            return Value(z - 1.0 * n, (self,), (1.0,))
+
     def __neg__(self):
         return self * -1
 
@@ -193,6 +268,10 @@ activation_map = {
     "selu": Value.selu,
     "softplus": Value.softplus,
     "mish": Value.mish,
+    "dma1": Value.dma1,
+    "dma2": Value.dma2,
+    "dma3": Value.dma3,
+    "dma4": Value.dma4,
 }
 Value.activate = activation_map.get(ACTIVATION, Value.relu)
 
