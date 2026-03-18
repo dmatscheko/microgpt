@@ -1,2000 +1,4392 @@
-Hi baby!
-Hello little one!
-Good morning!
-Rise and shine!
-Good night!
-Sleep tight!
-Sweet dreams!
-I love you!
-Big hug!
-Smooch!
-You're so cute!
-So precious!
-My little one!
-My sweet baby!
-Baby bear!
-Honey bee!
-Sugar plum!
-Sweet pea!
-Little bug!
-Tiny tot!
-Cuddle time!
-Snuggle up!
-Come here!
-Up we go!
-Down we go!
-Wheee!
-So fun!
-Yay!
-Hooray!
-Clap clap!
-Good job!
-Well done!
-Bravo!
-You did it!
-So proud!
-Yes yes yes!
-No no no!
-Be gentle!
-Soft hands!
-Easy does it!
-Bath time!
-Splish splash!
-So clean!
-Nice and warm!
-Towel time!
-Fresh baby!
-All dry!
-Diaper time!
-All clean now!
-Tummy time!
-Roll over!
-Sit up!
-Almost there!
-Try again!
-You got this!
-Strong baby!
-Big stretch!
-Arms up!
-Legs kick!
-Wiggle wiggle!
-Shake shake!
-Dance with me!
-Let's dance!
-Bouncy bounce!
-Jump jump!
-Step step!
-Walk to me!
-Come come!
-This way!
-Follow me!
-Here we go!
-Ready?
-One two three!
-Look at that!
-See the bird?
-Birdie bird!
-Doggy dog!
-Kitty cat!
-Moo cow!
-Quack quack!
-Woof woof!
-Meow meow!
-Oink oink!
-Baa baa!
-Cluck cluck!
-Roar!
-Ribbit!
-Tweet tweet!
-So pretty!
-So lovely!
-So beautiful!
-Look here!
-Watch this!
-Come look!
-Oh wow!
-So cool!
-Amazing!
-Wonderful!
-Fantastic!
-Brilliant!
-Clever baby!
-Smart cookie!
-You're the best!
-Number one!
-Top of the world!
-Eat eat!
-Yummy yummy!
-Mmmm good!
-Open wide!
-Here comes!
-All gone!
-More more?
-Hungry baby!
-Nom nom!
-Bite bite!
-Chew chew!
-Drink up!
-Sip sip!
-Thirsty baby?
-Good eating!
-Full tummy!
-Sippy cup!
-Bottle time!
-Milk milk!
-Num num!
-Tasty!
-So good!
-Delicious!
-Apple apple!
-Banana!
-Peekaboo!
-Boo!
-Found you!
-Where are you?
-Here I am!
-Surprise!
-Gotcha!
-Tag you're it!
-Catch me!
-Tickle time!
-Tickle tickle!
-Coochie coo!
-Belly tickle!
-So giggly!
-Laughing baby!
-Happy baby!
-Smiling baby!
-Silly face!
-Funny face!
-Make a face!
-Eyes eyes!
-Nose nose!
-Mouth mouth!
-Ears ears!
-Hair hair!
-Toes toes!
-Belly button!
-Fingers!
-Clap your hands!
-Touch your nose!
-Pat your head!
-Stomp your feet!
-Shake your head!
-Wave bye bye!
-Wave hi!
-Blow a kiss!
-So sweet!
-Snuggle bunny!
-Little lamb!
-Baby chick!
-Duckling!
-Piglet!
-Fawn!
-Pup pup!
-Kitten!
-Cub!
-Bunny!
-Fluffy!
-Soft soft!
-Warm warm!
-Cozy baby!
-All cozy!
-Under covers!
-Night night!
-Sleepy head!
-Close your eyes!
-Rest now!
-Shh shh!
-Quiet time!
-Rock a bye!
-Rock rock!
-Swing swing!
-Gentle sway!
-Lullaby time!
-Hush now!
-Dream big!
-Peaceful now!
-Rest easy!
-Good sleep!
-Nap time!
-Doze off!
-Drift away!
-Stars out!
-Moon is up!
-Night sky!
-Twinkle twinkle!
-Bright star!
-Wish upon!
-Sun is up!
-Morning light!
-Rise shine!
-New day!
-Good day!
-Outside time!
-Fresh air!
-Feel the breeze!
-Sun on face!
-Warm sunshine!
-Rain rain!
-Splashy puddle!
-Muddy boots!
-Leaves falling!
-Pick one up!
-Soft grass!
-Green green!
-Blue sky!
-White cloud!
-Pretty flower!
-Smell it!
-Bees buzz!
-Butterflies!
-See the bug?
-Itsy bitsy!
-So tiny!
-Teeny tiny!
-Little bitty!
-Itty bitty!
-Teeny weeny!
-Eeny meeny!
-One little!
-Two little!
-Three little!
-Count with me!
-One!
-Two!
-Three!
-Four!
-Five!
-Up high!
-Down low!
-Big big!
-Small small!
-Hot hot!
-Cold cold!
-Wet wet!
-Dry dry!
-Fast fast!
-Slow slow!
-Loud loud!
-Quiet quiet!
-Soft soft!
-Hard hard!
-Round round!
-Long long!
-Short short!
-Red red!
-Blue blue!
-Yellow!
-Green green!
-Orange!
-Purple!
-Pink pink!
-White white!
-Black black!
-Colors!
-So bright!
-So colorful!
-What color?
-This one!
-That one!
-This way!
-That way!
-Over here!
-Over there!
-Near near!
-Far far!
-In out!
-Up down!
-Yes yes!
-No no!
-Maybe so!
-We'll see!
-Of course!
+A time!
+Above all!
+Absolute love!
+Absolutely love!
 Absolutely!
-Sure thing!
-Right away!
-Just a sec!
-Almost ready!
-Here it comes!
-Wait for it!
-Ready set go!
-Go go go!
-Run run!
-Slow down!
-Stop stop!
-Careful now!
-Watch out!
-Hold on!
-Hang on!
-Almost there!
-Just a bit!
-Little more!
-Good try!
-Nice try!
-Keep going!
-Don't stop!
-You can do it!
-Push push!
-Pull pull!
-Lift it up!
-Put it down!
-Give to me!
-Take it!
-Hold it!
-Drop it!
-Throw it!
-Catch it!
-Roll it!
-Spin spin!
-Stack it up!
-Knock down!
-Build it!
-Break it!
-Put together!
-Take apart!
-In the box!
-Out the box!
-In the bag!
-Find it!
-Look look!
-Search search!
-There it is!
-Hidden!
-Hiding!
-Seek!
-Explore!
-Discover!
-Curious baby!
-So curious!
-Touch gently!
-Feel this!
-What's this?
-New thing!
-Brand new!
-Just for you!
-Present time!
-Open it!
-Rip it open!
-Inside see!
-Toy time!
-Play time!
-Fun time!
-Let's play!
-Ball ball!
-Block block!
-Puzzle time!
-Ring ring!
-Push it!
-Beep beep!
-Buzz buzz!
-Rattle rattle!
-Shake it!
-Drum drum!
-Bang bang!
-Music time!
-Sing sing!
-La la la!
-Doo doo doo!
-Hum along!
-Clap along!
-Stomp along!
-Move your body!
-Wiggle it!
-Shimmy!
-Jiggle!
-Bounce!
-Sway!
-Spin around!
-Turn around!
-Round and round!
-Circle circle!
-Line line!
-Zigzag!
-Up and over!
-Under and through!
-Peek through!
-Look through!
-Squeeze through!
-Crawl through!
-Roll through!
-Jump over!
-Step over!
-Climb up!
-Slide down!
-Swing high!
-Hang on tight!
-Wobbly!
-Balance!
-Steady now!
-Stand still!
-Sit down!
-Lay down!
-Curl up!
-Stretch out!
-Spread out!
-Reach out!
-Arms wide!
-Hug hug!
-Big hugs!
-Tight squeeze!
-Bear hug!
-Cheek kiss!
-Forehead kiss!
-Belly kiss!
-Toes kiss!
-Little piggies!
-This little piggy!
-This piggy went!
-Market market!
-Home home!
-Roast beef!
-Wee wee wee!
-All the way!
-Round the corner!
-Through the door!
-Up the stairs!
-Down the hall!
-Into the room!
+Absorbing all!
 Across the floor!
-Over the rug!
-Under the table!
-Behind the chair!
-Beside the bed!
-Next to mama!
-Close to papa!
-Near grandma!
-With grandpa!
-Family love!
-Lots of love!
-So much love!
-Love you more!
-Love you tons!
-Love you lots!
-Forever love!
-Always love!
-My darling!
-My sweetheart!
-My sunshine!
-My rainbow!
-My angel!
-Angel baby!
-Tiny angel!
-Little light!
-Bright light!
-Shining star!
-Little star!
-Baby star!
-My heart!
-Heart of mine!
-Precious heart!
-Golden child!
-Little treasure!
-My gem!
-My jewel!
-Sparkling eyes!
-Big bright eyes!
-Beautiful eyes!
-Twinkly eyes!
-Chubby cheeks!
-Rosy cheeks!
-Squishy cheeks!
-Pinchy cheeks!
-Soft soft cheeks!
-Button nose!
-Tiny nose!
-Cute nose!
-Crinkly nose!
-Boopable nose!
-Boop!
-Squish!
-Squishy!
-Squeezy!
-Squeezable!
 Adorable!
-Lovable!
-Huggable!
-Kissable!
-Cuddly!
-Snuggly!
-Fluffy cheeks!
-Chubby legs!
-Baby rolls!
-Chunky legs!
-Pudgy arms!
-Chubby arms!
-Wriggly toes!
-Tiny toes!
-Baby toes!
-Cute little feet!
-Tiny feet!
-Baby feet!
-Pitter patter!
-Little footsteps!
-Stamp stamp!
-Clump clump!
-Stomp stomp!
-Tip toe!
-Creep creep!
-Sneaky baby!
-Giggling now!
-Chuckling!
-Big laugh!
-Belly laugh!
-Silly giggle!
-Little chuckle!
-Bubbly laugh!
-So funny!
-You're funny!
-Silly silly!
-Goofball!
-Little goofball!
-Funny baby!
-Playful one!
-Mischievous!
-Cheeky baby!
-Little rascal!
-Naughty face!
-Sweet rascal!
-Lovable imp!
-Cheesy grin!
-Big grin!
-Wide smile!
-Toothy grin!
-Gummy smile!
-First tooth!
-New tooth!
-Teeth coming!
-Teething baby!
-Sore gums?
-Cold teether!
-Chew chew!
-Gnaw gnaw!
-Almost done!
-Feeling better?
-All better!
-Better now!
-Good as new!
-Healthy baby!
-Strong baby!
-Growing fast!
-Getting big!
-So big now!
-Look how big!
-Tall tall!
-Growing taller!
-Big and strong!
-Mighty baby!
-Brave baby!
-Bold baby!
-Fearless!
-Try something!
-Be brave!
-Nothing scary!
-Safe with me!
-I've got you!
-Always here!
-Right beside!
-Never leave!
-Promise you!
-Together always!
-Side by side!
-Hand in hand!
-Walking together!
-Learning together!
-Growing together!
-Discovering!
-Exploring now!
+Adored baby!
 Adventurous!
-Little explorer!
-Baby adventure!
-New discovery!
-Found something!
-What is it?
-Tell me!
-Show me!
-I see it!
-I hear it!
-I smell it!
-Sniff sniff!
-What's that smell?
-Yummy smell!
-Stinky!
-Eww!
-Silly smell!
-Flower smell!
-Cookie smell!
-Bread baking!
-Dinner time!
-Suppertime!
-Breakfast time!
-Lunch time!
-Snack time!
-Treat time!
-Special treat!
-Just a taste!
-Little bite!
-Try a piece!
-New food!
-Like it?
-Yummy or yucky?
-Spit it out!
-Try again?
-Good eater!
-Messy eater!
-So messy!
-Food everywhere!
-Face full!
-Bib on!
-Clean up!
-Wipe your face!
-All wiped!
-Squeaky clean!
-Wash hands!
-Sudsy hands!
-Bubble hands!
-Rinse off!
-All rinsed!
-Dry hands!
-High chair!
-Sit up tall!
-Buckle in!
-All strapped!
-Let's eat!
-Dinner's ready!
-Come and get!
-Soup time!
-Porridge time!
-Cereal time!
-Oatmeal time!
-Peas peas!
-Carrots!
-Sweet potato!
-Yummy fruit!
-Berries!
-Watermelon!
-Mango!
-Pear pear!
-Avocado!
-Yummy yogurt!
-Cheesy cheese!
-Cracker time!
-Puff puff!
-Little puffs!
-Melt in mouth!
-So yummy!
-Tummy full?
+Again and again!
+Ageless love!
+Aimed right!
+Aligned right!
+Alive alive!
+All all all!
+All and one!
+All better!
+All buckled!
+All clean now!
+All cozy!
+All cozy!
 All done!
-Good eating!
-Proud of you!
-Wonderful job!
-Excellent!
-You're awesome!
+All done!
+All dressed!
+All dry!
+All gone!
+All in all!
+All is love!
+All love!
+All my love!
+All of you!
+All rinsed!
+All strapped!
+All the hugs!
+All the kisses!
+All the way!
+All the way!
+All things you!
+All wiped!
+All wrapped!
+Almost arrived!
+Almost asleep!
+Almost done!
+Almost over!
+Almost ready!
+Almost there!
+Almost there!
+Almost time!
+Almost toddler!
+Always always!
+Always and ever!
+Always and forever!
+Always cheering!
+Always enough!
+Always ever love!
+Always first you!
+Always first!
+Always forward!
+Always going!
+Always growing!
+Always here!
+Always here!
+Always learning!
+Always love you!
+Always love!
+Always near!
+Always now!
+Always number one!
+Always present!
+Always returning!
+Always us!
+Always winning!
+Always with you!
+Amaze us!
+Amazing!
+And back again!
+And ever always!
+Angel baby!
+Angled right!
+Another step!
+Apple apple!
+Apple pie!
+Are love you!
+Arms of love!
+Arms up!
+Arms wide!
+Arranged right!
+Astonish!
+Astound!
+Authentic love!
+Authentically loved!
+Authentically!
+Avocado!
+Award winner!
 Awesome baby!
-Super baby!
-Super star!
-Superstar!
-My hero!
-Little hero!
+Baa baa!
+Baby adventure!
+Baby be love!
+Baby bear!
+Baby blink blink
+Baby chick!
+Baby clap clap
+Baby clap hands
+Baby coo Mama
+Baby coo coo
+Baby coos soft
+Baby doll!
+Baby eyes shine
+Baby eyes sparkle
+Baby eyes wide
+Baby feet!
+Baby fist wave
+Baby giggle fit
+Baby giggle time
+Baby giggles loud
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby giggles!
+Baby lashes!
+Baby laugh now
+Baby my love!
+Baby of babies!
+Baby rolls!
+Baby so brave
+Baby so calm
+Baby so calm
+Baby so calm now
+Baby so close
+Baby so cozy
+Baby so cozy
+Baby so loved
+Baby so loved
+Baby so loved
+Baby so strong
+Baby so tiny
+Baby so warm
+Baby star shine
+Baby star!
+Baby steps soon
+Baby toes!
+Baby tummy full
+Baby wave bye
+Baby wave hi
+Back again!
+Balance!
+Balanced right!
+Bald head!
+Ball ball!
+Banana!
+Band of love!
+Bang bang!
+Base of love!
+Bath time!
+Bathe in love!
+Be brave!
+Be gentle!
+Be here!
+Be in love!
+Be love baby!
+Be part!
+Be you!
+Beam of joy!
+Beams of love!
+Bear hug!
+Bear's sleeping!
+Beating love!
+Beautiful dream!
+Beautiful eyes!
+Beautiful life!
+Beautiful love!
+Beautiful sleep!
+Beautifully made!
+Beauty of life!
+Bedazzle!
+Beep beep!
+Bees buzz!
+Before you came!
+Behind the chair!
+Being together!
+Believe in you!
+Belly button!
+Belly kiss!
+Belly laugh!
+Belly tickle!
+Berries!
+Beside the bed!
+Best ever!
+Best is enough!
+Best love!
+Best of all!
+Best of bests!
+Best pick!
+Best snuggled!
+Best team!
+Better and better!
+Better now!
+Beyond all!
+Beyond beyond!
+Beyond enough!
+Bib on!
+Big and strong!
+Big baby yawn
+Big big!
+Big bright eyes!
+Big forehead!
+Big grin!
+Big heart!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug time!
+Big hug!
+Big hugs!
+Big kid now!
+Big laugh!
+Big love baby
+Big smile baby
+Big stretch!
+Bigger and bigger!
+Birdie bird!
+Bit of life!
+Bit of sky!
+Bite bite!
+Black black!
+Blanket on!
+Blankie time!
+Blessed are we!
+Blessing arrived!
+Blessing of life!
+Blinking now!
+Blinky eyes!
+Bliss of life!
+Blissfully loved!
+Block block!
+Bloom in love!
+Blooming love!
+Blooming now!
+Blow a kiss!
+Blue blue!
+Blue ribbon!
+Blue sky!
+Boat boat!
+Bold baby!
+Bolder and bolder!
+Bond of love!
+Boo!
+Book time!
+Boop!
+Boopable nose!
+Born with love!
+Bottle time!
+Bounce!
+Bouncy bounce!
+Bound to me!
+Boundless love!
+Boundlessly loved!
+Brand new!
+Brave baby!
 Brave heart!
-Kind heart!
-Gentle baby!
-Loving baby!
-Sharing now!
-Share share!
-Thank you!
-Please!
-Good manners!
-Nice sharing!
-So kind!
-Thoughtful!
-Gentle touch!
-Nice gentle!
-Soft soft!
-Easy now!
-Calm down!
+Brave heart!
+Bravo!
+Bread baking!
+Break it!
+Breakfast time!
+Breathe in love!
 Breathe in!
 Breathe out!
-Deep breath!
-Feel better?
-It's okay!
-There there!
-I'm here!
-Don't cry!
-It's alright!
-Almost over!
-Nearly done!
-Just a moment!
-Soon soon!
-Not long now!
-Patience dear!
-Good waiting!
-Great patience!
-Waiting well!
-Almost time!
-Time to go!
-Going now!
-Shoes on!
-Socks on!
-Coat on!
-Hat on!
-Zip zip!
-Button up!
-All dressed!
-Ready to go!
-Let's head out!
-Car car!
+Breathing love!
+Bright bright love!
+Bright dream!
+Bright eyes!
+Bright life!
+Bright light!
+Bright star!
+Brighter brighter!
+Brightest ever!
+Brilliance of you!
+Brilliant!
+Brimming love!
+Broad love!
+Broader and broader!
+Brought right!
+Bubble hands!
+Bubbly laugh!
+Buckle in!
 Buckle up!
-Car seat time!
-All buckled!
-Ready to ride!
-Vroom vroom!
-Car goes fast!
+Build it!
+Bunches and bunches!
+Bundled tight!
+Bundled up!
+Bunny!
+Bursting love!
 Bus bus!
-Choo choo!
-Train train!
-Plane plane!
-Boat boat!
-Splash splash!
-In the stroller!
-Stroller time!
-Wheels rolling!
-Off we go!
-Here we go!
-On our way!
-Nearly there!
-Almost arrived!
-We're here!
-Home again!
-We're home!
-Welcome home!
-Inside now!
-Take off shoes!
-Jacket off!
-Hats off!
-Inside voice!
-Quiet inside!
-Come inside!
-Warm inside!
-Nice and cozy!
-Settle in!
-Relax now!
+Butterflies!
+Button nose!
+Button up!
+Buzz buzz!
 Calm down now!
-Easy baby!
-Peaceful now!
-Shh shh shh!
-Hush little one!
-Quiet quiet!
-Night coming!
-Time for bed!
-Pajama time!
-PJs on!
-All cozy!
-Tuck in!
-Blanket on!
-Pillow time!
-Eyes close!
-Dream nice!
-Story time!
-One little story!
-Once upon!
-A time!
-The end!
-All done!
-Book time!
-Turn the page!
-Look at pictures!
-What's that?
-Point to it!
-Show me please!
-See the dog?
-See the cat?
-Find the ball!
-Where's the duck?
-There he is!
-Peek a boo!
-Hiding there!
-Found the bear!
-Teddy bear!
-Hugging teddy!
-Soft teddy!
-Bear's sleeping!
-Dolly dolly!
-Baby doll!
-Rocking dolly!
-Shh dolly sleeps!
-Blankie time!
-Soft blankie!
+Calm down!
+Calmly loved!
+Can't stop!
+Captivate!
+Car car!
+Car goes fast!
+Car seat time!
+Careful now!
+Carried in love!
+Carrots!
+Carry on love!
+Catch it!
+Catch me!
+Ceaselessly loved!
+Celebration of you!
+Center of love!
+Centered right!
+Cereal time!
+Chain of love!
+Champion baby!
+Changing fast!
+Cheek kiss!
+Cheeky baby!
+Cheering you!
+Cheesy cheese!
+Cheesy grin!
+Cherished one!
+Cherry pie!
+Chew chew!
+Chew chew!
+Choo choo!
+Chosen one!
+Chubby arms!
+Chubby cheeks!
+Chubby legs!
+Chubby wrists!
+Chuckling!
+Chunk of joy!
+Chunky legs!
+Circle circle!
+Circle of love!
+Circular love!
+Clap along!
+Clap clap!
+Clap your hands!
+Clean love!
+Clean up!
+Clear clear love!
+Clear dream!
+Clearer and clearer!
+Clearest ever!
+Clever baby!
+Climb up!
+Close close here!
+Close close!
+Close to papa!
+Close to soul!
+Close your eyes!
+Closer and closer!
+Closest ever!
+Closest one!
+Closest to heart!
+Cluck cluck!
+Clump clump!
+Coat on!
+Cold cold!
+Cold teether!
+Colorful dream!
+Colors!
+Colossal love!
+Combined love!
+Come along!
+Come and get!
+Come come!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come here!
+Come inside!
+Come look!
+Come right!
+Comfortable!
+Comfy cozy!
+Coming along!
+Coming back!
+Common dream!
+Common joy!
+Complete love!
+Completely be!
+Completely loved!
+Completely loved!
+Completely snug!
+Completely you!
+Connection deep!
+Consistent love!
+Constant love!
+Constantly loved!
+Contentedly loved!
+Continually loved!
+Continue in love!
+Continuing love!
+Coochie coo!
+Cookie smell!
+Core of love!
+Corner to corner!
+Count with me!
+Covered in love!
+Coziest ever!
+Cozy baby!
 Cozy blankie!
-Hug your blankie!
-Paci paci!
-Soothe soothe!
-Rock rock!
-Gentle rock!
-Sway sway!
-Side to side!
-Slowly now!
-Slow and steady!
-Getting sleepy?
+Cozy comfy!
+Cozy love!
+Cozy right!
+Cozy warm snug!
+Cracker time!
+Cradled in love!
+Crawl through!
+Cream of crop!
+Creep creep!
+Crinkly nose!
+Cub!
+Cuddle time!
+Cuddly!
+Curious baby!
+Curl up!
+Curly hair!
+Cute head!
+Cute little feet!
+Cute nose!
+Cutest ever!
+Cutie pie!
+Daily changes!
+Dance for joy!
+Dance with me!
+Dancing love!
+Darling dear!
+Day by day!
+Day by day!
+Day by day!
+Dazzle!
+Dear baby!
+Dearest ever!
+Dearest one!
+Dearest to me!
+Dearly loved!
+Deep breath!
+Deep connection!
+Deep deep love!
+Deep love!
+Deeper and deeper!
+Deepest love!
+Deeply be!
+Deeply love!
+Deeply loved!
+Delicious!
+Delight of you!
+Delight us!
+Demanded love!
+Desired you!
+Developing fast!
+Developing well!
+Dewdrop!
+Diaper time!
+Dimple cheeks!
+Dinner time!
+Dinner's ready!
+Directed right!
+Discover!
+Discovered right!
+Discovering!
+Dive in love!
+Doggy dog!
+Dolly dolly!
+Don't cry!
+Don't stop!
+Doo doo doo!
+Down low!
+Down the hall!
+Down we go baby
+Down we go!
+Doze off!
+Dream and do!
+Dream baby!
+Dream big!
+Dream came true!
+Dream come true!
+Dream nice!
+Dreamed of you!
+Drench in love!
+Drift away!
+Drink up love!
+Drink up!
 Droopy eyes!
-Heavy eyes!
-Almost asleep!
+Drop it!
+Drop of sun!
+Drum drum!
+Dry dry!
+Dry hands!
+Duckling!
+Durable love!
+Each and every!
+Each other love!
+Eagerly loved!
+Ears ears!
+Easy baby!
+Easy does it!
+Easy love!
+Easy now!
+Eat eat!
+Eat up love!
+Echoing love!
+Ecstasy of love!
+Edge to edge!
+Eeny meeny!
+Effulgence of love!
+Elation of you!
+Enchant us!
+Enchantment!
+End to end!
+Endless love!
+Endlessly loved!
+Endure in love!
+Enduring love!
+Engage!
+Enormous love!
+Enormously loved!
+Enough always!
+Entirely loved!
+Essential baby!
+Established right!
+Eternal love!
+Eternally loved!
+Ever always love!
+Everlastingly loved!
+Evermore love!
+Every day more!
+Every little piece!
+Every single way!
+Every tiny bit!
+Everything for you!
+Everything!
+Eww!
+Exactly right!
+Excellent!
+Exceptional love!
+Exceptionally you!
+Exhilaration!
+Explore!
+Explored right!
+Exploring now!
+Extra special!
+Extraordinary!
+Exultation!
+Eyes close!
+Eyes eyes!
+Face full!
+Facing right!
 Fading fast!
-Going to sleep!
-Sleeping now!
+Faithful love!
+Family dream!
+Family heart!
+Family love!
+Family together!
+Fan number one!
+Fantastic!
+Far far away!
+Far far!
+Fascinate!
 Fast asleep!
-Snoozing!
-Snore snore!
-Little snores!
-Precious sleep!
-Beautiful sleep!
-Rest well!
-Sleep well!
+Fast fast!
+Fawn!
+Fearless!
+Feel better?
+Feel the breeze!
+Feel this!
+Feeling better?
+Festivity of love!
+Fill up with love!
+Filled love!
+Find it!
+Find the ball!
+Fine hair!
+Finer and finer!
+Finest ever!
+Finest love!
+Fingers!
+Firm ground!
+Firm love!
+First always!
+First and last!
+First of all!
+First place you!
+First prize!
+First steps!
+First tooth!
+Five!
+Fixed right!
+Flash of love!
+Flicker!
+Float on joy!
+Flourish in love!
+Flourishing love!
+Flourishing!
+Flower smell!
+Flowing love!
+Fluffy cheeks!
+Fluffy!
+Fluttery eyes!
+Fly with joy!
+Focused right!
+Follow me!
+Food everywhere!
+Forehead kiss!
+Forever and always!
+Forever and ever!
+Forever first!
+Forever here!
+Forever love!
+Forever love!
+Forever love!
+Forever more!
+Forever you!
+Fortunate me!
+Forward we go!
+Found right!
+Found something!
+Found the bear!
+Found you!
+Foundation love!
+Four!
+Free love!
+Freely be!
+Freely loved!
+Fresh air!
+Fresh baby!
+Front to back!
+Full full love!
+Full life!
+Full of love!
+Full tummy!
+Fuller and fuller!
+Fully alive!
+Fully be!
+Fully loved!
+Fully wrapped!
+Fun time!
+Funny baby!
+Funny face!
+Further and further!
+Fuzzy head!
+Fuzzy peach!
+Galaxies of love!
+Gentle baby
+Gentle baby!
+Gentle heart!
+Gentle life!
+Gentle love!
+Gentle rock!
+Gentle sway!
+Gentle touch!
+Gentler and gentler!
+Gentlest ever!
+Gently loved!
+Genuine article!
+Genuine love!
+Genuinely be!
+Genuinely loved!
+Getting big!
+Getting bigger!
+Getting sleepy?
+Getting steadier!
+Getting there!
+Giant heart!
+Gift of life!
+Gift received!
+Giggling now!
+Give to me!
+Giving love!
+Gladly loved!
+Gleam of life!
+Glimmer of hope!
+Glimmer!
+Glisten!
+Glitter!
+Glorious love!
+Glory of you!
+Glow of heart!
+Glow of love!
+Glow on!
+Glowiest ever!
+Gnaw gnaw!
+Go go go!
+Go go go!
+Going now!
+Going right!
+Going to sleep!
+Gold medal!
+Gold star you!
+Golden baby!
+Golden child!
+Golden dream!
+Gone right!
+Good as new!
+Good baby good
+Good day!
+Good eater!
+Good eating!
+Good eating!
+Good good life!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job baby!
+Good job!
+Good manners!
+Good morning baby
+Good morning!
+Good night baby
 Good night moon!
 Good night stars!
 Good night sun!
-See you morning!
-See you soon!
-Wake up soon!
-See you then!
-Love you always!
-Always and ever!
-Forever and ever!
-To the moon!
-And back again!
-Infinity love!
-More than ever!
-So so much!
-Whole wide world!
-All the hugs!
-All the kisses!
-All my love!
-Everything for you!
-Just for you!
-Only for you!
-Specially you!
-You are special!
-One of a kind!
-Unique baby!
-Nobody like you!
-Perfect baby!
-Perfectly you!
-Exactly right!
-Just as you are!
-Love every bit!
-Every tiny bit!
-Every little piece!
-Head to toe!
-Top to bottom!
-Inside out!
-Through and through!
-All of you!
-Completely you!
-Totally love!
-Absolutely love!
-Deeply love!
-Truly love!
-Really really love!
-So very much!
-Very much!
-Lots and lots!
-Bunches and bunches!
-Heaps and heaps!
-Piles of love!
-Mountains of love!
-Oceans of love!
-Rivers of love!
-Pools of kisses!
-Skies full of love!
-Stars of kisses!
-Suns of hugs!
-Moons of love!
-Galaxies of love!
-Universes of love!
-Endless love!
-Boundless love!
-Limitless love!
+Good night!
+Good sleep!
+Good try!
+Good waiting!
+Goofball!
+Gotcha!
+Grand dream!
+Grand love!
+Grander and grander!
+Grandest ever!
+Grandeur of love!
+Great dream!
+Great love!
+Great patience!
+Greater and greater!
+Greatest ever!
+Greatest love!
+Greatly loved!
+Green green!
+Green green!
+Grounded right!
+Grow and bloom!
+Grow in love!
+Growing and growing!
+Growing brain!
+Growing daily!
+Growing fast!
 Growing love!
-Every day more!
-More each day!
-Day by day!
-Morning to night!
-Sunrise to sunset!
-Always growing!
-Never ending!
-On and on!
-Forever more!
-Beyond beyond!
-Far far away!
-Close close here!
-Right here now!
-Present moment!
-Here together!
-This moment!
-Together now!
-Loving now!
+Growing love!
+Growing taller!
+Growing together!
+Growing well!
+Guided right!
+Gummy smile!
+Gushing love!
+Hair hair!
+Half of me!
+Hand in hand!
+Hands of love!
+Hang on tight!
+Hang on!
+Happily loved!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy baby!
+Happy dream!
+Happy heart!
+Happy life!
 Happy together!
-Joy together!
-Laughing together!
-Smiling together!
-Playing together!
-Living together!
-Being together!
-Family together!
-Us together!
-You and me!
-Me and you!
-Always us!
-Team family!
-Best team!
-Our family!
+Hard hard!
+Hat on!
+Hats off!
+Head to heel!
+Head to toe!
+Heading right!
+Healthy baby!
+Heaps and heaps!
+Heart of hearts!
+Heart of life!
+Heart of love!
+Heart of mine!
+Heart's closest!
+Heavy eyes!
+Held in love!
+Hello little one!
+Here I am!
+Here again!
+Here always!
+Here and there!
+Here comes!
+Here forever!
+Here is love!
+Here it comes!
+Here together!
+Here we go!
+Here we go!
+Here with me!
+Hi baby!
+Hidden!
+Hiding there!
+Hiding!
+High and low!
+High chair!
+Higher and higher!
+Highest love!
+Hold it!
+Hold on love!
+Hold on!
+Home again!
+Home home!
 Home is us!
+Honest love!
+Honestly be!
+Honestly loved!
+Honey bee!
+Honey drop!
+Honey pie!
+Hooray!
+Hope and thrive!
+Hope realized!
+Hot hot!
+Hug Mama tight
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug Mama!
+Hug hug!
+Hug your blankie!
+Huge love!
+Hugely loved!
+Huggable!
+Hugging teddy!
+Hum along!
+Hungry baby!
+Hush little one!
+Hush now!
+I hear it!
+I love Mama!
+I love Mama!
+I love Mama!
+I love Papa!
+I love Papa!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I love you!
+I see it!
+I see you!
+I smell it!
+I'm here!
+I've got you!
+Ideally warm!
+Illuminate!
+Immense love!
+Immensely loved!
+Immerse in love!
+Impress us!
+In all!
+In out!
+In the bag!
+In the box!
+In the stroller!
+Incandescence!
+Incessantly loved!
+Include!
+Incredibly loved!
+Infinite loop!
+Infinite love!
+Infinitely loved!
+Infinity love!
+Inseparable us!
+Inside now!
+Inside out!
+Inside out!
+Inside see!
+Inside voice!
+Interest!
+Into the room!
+Intrigue!
+Invaluable you!
+Involve!
+Irreplaceable you!
+It's alright!
+It's okay!
+Itsy bitsy!
+Itty bitty!
+Jacket off!
+Jiggle!
+Joined joy!
+Journeyed right!
+Joy of life!
+Joy together!
+Joyful dream!
+Joyful heart!
+Joyful life!
+Joyfully loved!
+Jubilation!
+Jump for joy!
+Jump jump!
+Jump over!
+Just a bit!
+Just a moment!
+Just a sec!
+Just a taste!
+Just as you are!
+Just be!
+Just for you!
+Just for you!
+Keep going!
+Keep on loving!
+Keep stepping!
+Kind heart!
+Kind heart!
+Kind life!
+Kind love!
+Kinder and kinder!
+Kindest ever!
+Kindly loved!
+Kiss for Mama
+Kiss for Mama!
+Kiss for Mama!
+Kiss for Mama!
+Kiss for Mama!
+Kiss for Mama!
+Kiss for Mama!
+Kiss for Papa
+Kiss for Papa!
+Kiss for Papa!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kiss for you!
+Kissable!
+Kitten!
+Kitty cat!
+Knock down!
+La la la!
+Larger and larger!
+Last and first!
+Last in love!
+Lasting bond!
+Lasting love!
+Laugh and learn!
+Laugh and love!
+Laugh live love!
+Laugh love live!
+Laughing baby!
+Laughing together!
+Lay down!
+Leap for joy!
+Learning always!
+Learning together!
+Leaves falling!
+Led right!
+Legs kick!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's clap!
+Let's dance!
+Let's eat!
+Let's head out!
+Let's move!
+Let's play!
+Life of my love!
+Life so good!
+Life with you!
+Lift it up!
+Lifted with love!
+Light of life!
+Light of love!
+Like it?
+Limitless love!
+Line line!
+Link of love!
+Little bite!
+Little bitty!
+Little bug!
+Little chuckle!
+Little dimples!
+Little dreamer
+Little explorer
+Little explorer!
+Little footsteps!
+Little goofball!
+Little heart!
+Little hero!
+Little jaw!
+Little lamb!
+Little light!
+Little love bug
+Little love bug
+Little love song
+Little more!
+Little muffin!
+Little peach!
+Little piggies!
+Little puffs!
+Little pumpkin!
+Little rascal!
+Little snores!
+Little star baby
+Little star!
+Little treasure!
+Little walker!
+Live and laugh!
+Live and love!
+Live in love!
+Live love laugh!
+Living dream!
+Living living!
+Living love!
+Living together!
+Located right!
+Long lashes!
+Long long!
+Long love!
+Look at pictures!
+Look at that!
+Look at you go!
+Look at you!
+Look here!
+Look how big!
+Look how grown!
+Look look!
+Look through!
+Looking around!
+Looking right!
+Loop of love!
+Lots and lots!
+Lots of love!
+Loud loud!
+Lovable imp!
+Lovable!
+Love Mama lots!
+Love Mama lots!
+Love Papa lots!
+Love Papa lots!
+Love Papa lots!
+Love all around!
+Love all ways!
+Love all!
+Love always ever!
+Love and laugh!
+Love and live!
+Love be you!
+Love each other!
+Love every bit
+Love every bit!
+Love every coo
+Love forever!
+Love goes on!
+Love holds you!
+Love is all!
+Love is here!
 Love is home!
-You are home!
-You are loved!
+Love is now!
+Love is us!
+Love is you!
+Love keeps on!
+Love love love!
+Love my baby
+Love of all!
+Love of loves!
+Love of my life!
+Love shines bright!
+Love those cheeks
+Love those eyes
+Love together us!
+Love we are!
+Love you always!
+Love you are!
+Love you baby
+Love you baby
+Love you big
+Love you endless
+Love you forever
+Love you lots
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you lots!
+Love you more
+Love you more!
+Love you to bits
+Love you to moon
+Love you tons!
+Love your smell
 Loved always!
-Loved forever!
-Loved today!
-Loved tomorrow!
-Loved each day!
-Loved each night!
-Loved in sleep!
-Loved awake!
+Loved as is!
 Loved at play!
 Loved at rest!
-Loved when sad!
+Loved awake!
+Loved each day!
+Loved each night!
+Loved forever!
+Loved in sleep!
+Loved in waiting!
+Loved since before!
+Loved the most!
+Loved today!
+Loved tomorrow!
 Loved when glad!
 Loved when mad!
-Loved as is!
+Loved when sad!
+Lovelier lovelier!
+Loveliest ever!
+Loveliest!
+Loving baby!
+Loving heart!
+Loving life!
+Loving now!
+Lovingly made!
+Loyal love!
+Lucky find!
+Lucky me!
+Lullaby time!
+Luminance of joy!
+Lunch time!
+Made with love!
+Magic of life!
+Magic of you!
+Magnificence!
+Magnificent dream!
+Magnificent love!
+Make a face!
+Mama adores angel!
+Mama adores angel!
+Mama adores baby!
+Mama adores baby!
+Mama adores baby!
+Mama adores cutie!
+Mama adores cutie!
+Mama adores cutie!
+Mama adores darling!
+Mama adores darling!
+Mama adores darling!
+Mama adores darling!
+Mama adores darling!
+Mama adores honey!
+Mama adores honey!
+Mama adores honey!
+Mama adores honey!
+Mama adores honey!
+Mama adores honey!
+Mama adores honey!
+Mama adores joy!
+Mama adores joy!
+Mama adores joy!
+Mama adores lovebug!
+Mama adores lovebug!
+Mama adores lovebug!
+Mama adores lovebug!
+Mama adores sweetie!
+Mama adores sweetie!
+Mama adores sweetie!
+Mama adores sweetie!
+Mama adores sweetie!
+Mama adores you!
+Mama adores you!
+Mama all day
+Mama all in
+Mama amazed
+Mama answer coo
+Mama arms wide
+Mama baby giggles!
+Mama baby giggles!
+Mama baby giggles!
+Mama baby giggles!
+Mama baby giggles!
+Mama baby giggles!
+Mama baby giggles!
+Mama beat for you
+Mama big hug time!
+Mama big hug time!
+Mama big hug time!
+Mama big hug time!
+Mama big hug time!
+Mama big hug time!
+Mama blanket you
+Mama blow kiss
+Mama boop boop
+Mama boop nose
+Mama breathe in
+Mama breathe slow
+Mama breathe you
+Mama carry you
+Mama catch you
+Mama cheer cheer
+Mama cherish you
+Mama clap too
+Mama claps angel!
+Mama claps angel!
+Mama claps angel!
+Mama claps angel!
+Mama claps angel!
+Mama claps cutie!
+Mama claps cutie!
+Mama claps cutie!
+Mama claps darling!
+Mama claps for baby!
+Mama claps for baby!
+Mama claps for baby!
+Mama claps for baby!
+Mama claps for baby!
+Mama claps for baby!
+Mama claps for joy!
+Mama claps for you!
+Mama claps for you!
+Mama claps for you!
+Mama claps for you!
+Mama claps honey!
+Mama claps lovebug!
+Mama claps lovebug!
+Mama claps precious!
+Mama claps precious!
+Mama claps precious!
+Mama claps precious!
+Mama claps precious!
+Mama claps precious!
+Mama claps precious!
+Mama claps sunshine!
+Mama claps sunshine!
+Mama claps sunshine!
+Mama claps sunshine!
+Mama claps sunshine!
+Mama claps sunshine!
+Mama claps sweetie!
+Mama claps sweetie!
+Mama claps sweetie!
+Mama close them
+Mama collect them
+Mama come here!
+Mama come here!
+Mama come here!
+Mama come here!
+Mama coo back
+Mama copy cat
+Mama count them
+Mama cuddle bug
+Mama cuddle now
+Mama dream sweet
+Mama endless love
+Mama every day
+Mama feed baby
+Mama feel heart
+Mama feel it
+Mama feel love
+Mama feel power
+Mama finger hold
+Mama follow you
+Mama forever
+Mama forever yours
+Mama gentle touch
+Mama glow bright
+Mama glow too
+Mama good job baby!
+Mama good job baby!
+Mama good job baby!
+Mama good job baby!
+Mama good job baby!
+Mama good job baby!
+Mama good job baby!
+Mama good job baby!
+Mama good job baby!
+Mama grab hold
+Mama happy baby!
+Mama happy baby!
+Mama happy baby!
+Mama happy baby!
+Mama happy baby!
+Mama happy heart
+Mama hear it
+Mama high five
+Mama hold close
+Mama hold hand
+Mama hold tight
+Mama hold tight
+Mama hug time
+Mama hugs angel!
+Mama hugs angel!
+Mama hugs baby!
+Mama hugs baby!
+Mama hugs baby!
+Mama hugs cutie!
+Mama hugs cutie!
+Mama hugs cutie!
+Mama hugs darling!
+Mama hugs darling!
+Mama hugs darling!
+Mama hugs darling!
+Mama hugs darling!
+Mama hugs darling!
+Mama hugs darling!
+Mama hugs honey!
+Mama hugs honey!
+Mama hugs honey!
+Mama hugs joy!
+Mama hugs joy!
+Mama hugs joy!
+Mama hugs joy!
+Mama hugs joy!
+Mama hugs joy!
+Mama hugs joy!
+Mama hugs joy!
+Mama hugs lovebug!
+Mama hugs lovebug!
+Mama hugs lovebug!
+Mama hugs lovebug!
+Mama hugs precious!
+Mama hugs sunshine!
+Mama hugs sunshine!
+Mama hugs sunshine!
+Mama hugs sweetie!
+Mama hugs sweetie!
+Mama hugs sweetie!
+Mama hugs sweetie!
+Mama hugs sweetie!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hugs you!
+Mama hum low
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama is here!
+Mama join in
+Mama join laugh
+Mama kiss bug
+Mama kiss nose
+Mama kiss toes
+Mama kisses angel!
+Mama kisses angel!
+Mama kisses angel!
+Mama kisses angel!
+Mama kisses baby!
+Mama kisses baby!
+Mama kisses baby!
+Mama kisses baby!
+Mama kisses baby!
+Mama kisses cutie!
+Mama kisses cutie!
+Mama kisses cutie!
+Mama kisses darling!
+Mama kisses honey!
+Mama kisses joy!
+Mama kisses joy!
+Mama kisses lovebug!
+Mama kisses lovebug!
+Mama kisses sweetie!
+Mama kisses sweetie!
+Mama kisses you!
+Mama kisses you!
+Mama know it
+Mama laugh hard
+Mama laughs angel!
+Mama laughs angel!
+Mama laughs angel!
+Mama laughs baby!
+Mama laughs baby!
+Mama laughs baby!
+Mama laughs baby!
+Mama laughs baby!
+Mama laughs cutie!
+Mama laughs cutie!
+Mama laughs cutie!
+Mama laughs cutie!
+Mama laughs cutie!
+Mama laughs darling!
+Mama laughs darling!
+Mama laughs honey!
+Mama laughs honey!
+Mama laughs honey!
+Mama laughs honey!
+Mama laughs joy!
+Mama laughs joy!
+Mama laughs joy!
+Mama laughs joy!
+Mama laughs lovebug!
+Mama laughs lovebug!
+Mama laughs lovebug!
+Mama laughs lovebug!
+Mama laughs sweetie!
+Mama laughs sweetie!
+Mama laughs sweetie!
+Mama laughs sweetie!
+Mama let's clap!
+Mama let's clap!
+Mama listen close
+Mama listen long
+Mama love always
+Mama love song
+Mama loves angel!
+Mama loves angel!
+Mama loves angel!
+Mama loves angel!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves baby!
+Mama loves cutie!
+Mama loves cutie!
+Mama loves cutie!
+Mama loves darling!
+Mama loves darling!
+Mama loves honey!
+Mama loves honey!
+Mama loves honey!
+Mama loves honey!
+Mama loves honey!
+Mama loves hugs
+Mama loves joy!
+Mama loves joy!
+Mama loves joy!
+Mama loves lovebug!
+Mama loves lovebug!
+Mama loves lovebug!
+Mama loves lovebug!
+Mama loves precious!
+Mama loves precious!
+Mama loves precious!
+Mama loves precious!
+Mama loves sunshine!
+Mama loves sunshine!
+Mama loves sunshine!
+Mama loves sweetie!
+Mama loves sweetie!
+Mama loves sweetie!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama loves you!
+Mama match it
+Mama mirror it
+Mama morning kiss!
+Mama morning kiss!
+Mama morning kiss!
+Mama morning kiss!
+Mama most most
+Mama my cutie!
+Mama my cutie!
+Mama my cutie!
+Mama naptime now!
+Mama naptime now!
+Mama naptime now!
+Mama no end
+Mama pat gently
+Mama pat pat
+Mama peekaboo!
+Mama peekaboo!
+Mama peekaboo!
+Mama pick you
+Mama pieces too
+Mama plays angel!
+Mama plays angel!
+Mama plays angel!
+Mama plays angel!
+Mama plays angel!
+Mama plays cutie!
+Mama plays cutie!
+Mama plays darling!
+Mama plays darling!
+Mama plays darling!
+Mama plays honey!
+Mama plays honey!
+Mama plays honey!
+Mama plays honey!
+Mama plays lovebug!
+Mama plays lovebug!
+Mama plays lovebug!
+Mama plays lovebug!
+Mama plays lovebug!
+Mama plays precious!
+Mama plays precious!
+Mama plays precious!
+Mama plays precious!
+Mama plays precious!
+Mama plays precious!
+Mama plays precious!
+Mama plays precious!
+Mama plays sunshine!
+Mama plays sunshine!
+Mama plays sunshine!
+Mama plays sweetie!
+Mama plays sweetie!
+Mama plays sweetie!
+Mama plays sweetie!
+Mama plays with joy!
+Mama plays with joy!
+Mama plays with joy!
+Mama plays with you!
+Mama plays with you!
+Mama plays with you!
+Mama promise
+Mama protect you
+Mama proud baby
+Mama puddle now
+Mama pull you
+Mama pure joy
+Mama rock you
+Mama rock-a-bye
+Mama say daily
+Mama say wow
+Mama see magic
+Mama see smile
+Mama see you!
+Mama sees angel!
+Mama sees angel!
+Mama sees angel!
+Mama sees angel!
+Mama sees baby!
+Mama sees baby!
+Mama sees baby!
+Mama sees baby!
+Mama sees baby!
+Mama sees baby!
+Mama sees cutie!
+Mama sees cutie!
+Mama sees cutie!
+Mama sees darling!
+Mama sees darling!
+Mama sees darling!
+Mama sees darling!
+Mama sees honey!
+Mama sees honey!
+Mama sees honey!
+Mama sees honey!
+Mama sees honey!
+Mama sees joy!
+Mama sees joy!
+Mama sees lovebug!
+Mama sees lovebug!
+Mama sees lovebug!
+Mama sees lovebug!
+Mama sees precious!
+Mama sees precious!
+Mama sees precious!
+Mama sees precious!
+Mama sees precious!
+Mama sees precious!
+Mama sees sunshine!
+Mama sees sunshine!
+Mama sees sweetie!
+Mama sees sweetie!
+Mama sees sweetie!
+Mama sees sweetie!
+Mama sees you!
+Mama sees you!
+Mama sees you!
+Mama sees you!
+Mama sees you!
+Mama shine with you
+Mama sigh happy
+Mama sing song
+Mama sleepy too
+Mama smile big
+Mama smile big!
+Mama smile big!
+Mama smile big!
+Mama smile big!
+Mama smile big!
+Mama smiles angel!
+Mama smiles at baby!
+Mama smiles at joy!
+Mama smiles at joy!
+Mama smiles at joy!
+Mama smiles at you!
+Mama smiles at you!
+Mama smiles at you!
+Mama smiles at you!
+Mama smiles cutie!
+Mama smiles cutie!
+Mama smiles cutie!
+Mama smiles darling!
+Mama smiles darling!
+Mama smiles darling!
+Mama smiles honey!
+Mama smiles honey!
+Mama smiles honey!
+Mama smiles lovebug!
+Mama smiles lovebug!
+Mama smiles lovebug!
+Mama sniff sniff
+Mama snuggle close
+Mama soft soft
+Mama squeal
+Mama squish squish
+Mama sweet baby!
+Mama sweet baby!
+Mama tell world
+Mama thank you
+Mama tuck in
+Mama waits angel!
+Mama waits angel!
+Mama waits angel!
+Mama waits angel!
+Mama waits cutie!
+Mama waits cutie!
+Mama waits cutie!
+Mama waits cutie!
+Mama waits darling!
+Mama waits darling!
+Mama waits for baby!
+Mama waits for baby!
+Mama waits for baby!
+Mama waits for baby!
+Mama waits for baby!
+Mama waits for joy!
+Mama waits for joy!
+Mama waits for joy!
+Mama waits for you!
+Mama waits for you!
+Mama waits honey!
+Mama waits honey!
+Mama waits honey!
+Mama waits honey!
+Mama waits lovebug!
+Mama waits lovebug!
+Mama waits precious!
+Mama waits precious!
+Mama waits sunshine!
+Mama waits sunshine!
+Mama waits sunshine!
+Mama waits sunshine!
+Mama waits sunshine!
+Mama warm day
+Mama warm hug
+Mama watch you
+Mama wave back
+Mama whisper
+Mama wish big
+Mama wish on you
+Mama you are cute!
+Mama you are cute!
+Mama you are cute!
+Mama you are cute!
+Mama you are cute!
+Mama you are cute!
+Mama yummy yum!
+Mama yummy yum!
+Mama yummy yum!
+Mama yummy yum!
+Mama yummy yum!
+Mama's angel
+Mama's baby
+Mama's boy
+Mama's cutie
+Mama's favorite
+Mama's flower
+Mama's heart
+Mama's heartbeat
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's here!
+Mama's joy
+Mama's lap
+Mama's light
+Mama's prince
+Mama's princess
+Mama's princess
+Mama's ray
+Mama's star
+Mama's sunshine
+Mango!
+Market market!
+Maximally snug!
+Maybe so!
+Me and you!
+Me love you!
+Medal worthy!
+Melt in mouth!
+Memorable love!
+Meow meow!
+Merged hearts!
+Messy eater!
+Mighty baby!
+Milk milk!
+Million in one!
+Miracle of life!
+Mischievous!
+Mmmm good!
+Moment by moment!
+Moo cow!
+Moon is up!
+Moonbeam!
+Moons of love!
+More adored!
+More and more!
+More cherished!
+More cherished!
+More cuddles
+More delightful!
+More desired!
+More each day!
+More magical!
+More more?
+More needed!
+More precious!
+More prized!
+More sought!
+More than enough!
+More than ever!
+More treasured!
+More valued!
+More wanted!
+More wondrous!
+Morning evening!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning kiss!
+Morning light!
+Morning to night!
+Most adored!
+Most cherished!
+Most cozy!
+Most dear!
+Most desired!
+Most loved!
+Most needed!
+Most of all!
+Most precious!
+Most prized!
+Most treasured!
+Most valuable!
+Most valued!
+Most wanted!
+Mountains of love!
+Mouth mouth!
+Move your body!
+Moved right!
+Moving along!
+Moving forward!
+Moving love!
+Moving on!
+Moving right!
+Muddy boots!
+Music time!
+Mutual joy!
+Mvp baby!
+My adventure!
+My angel!
+My baby boy
+My baby boy forever
+My baby dear!
+My baby forever
+My baby girl
+My baby mine
+My baby!
+My blessing!
+My brave baby
+My calm!
+My chosen!
+My cloud!
+My comfort!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My cutie!
+My darling!
+My darling!
+My delight!
+My dream!
+My dream!
+My everything
+My everything baby
+My everything!
+My family!
+My flower!
+My future!
+My gem!
+My gift!
+My good baby
+My greatest love!
+My happiness!
+My heart baby
+My heart string
+My heart!
+My heart!
+My hero!
+My home!
+My hope!
+My jewel!
+My journey!
+My joy!
+My laugh!
+My life!
+My light!
+My little explorer
+My little love
+My little one
+My little one!
+My little star
+My love!
+My miracle!
+My moon!
+My muffin!
+My music!
+My only love!
+My path!
+My peace!
+My peach!
+My precious one
+My prize!
+My pumpkin!
+My rainbow!
+My rainbow!
+My safe place!
+My sky!
+My smile!
+My song!
+My star!
+My story!
+My sun!
+My sunshine boy
+My sunshine girl
+My sunshine!
+My sweet baby!
+My sweetheart!
+My tiny baby
+My today!
+My toddler!
+My treasure!
+My warmth!
+My whole heart!
+My whole world
+My wish!
+My wonder!
+My world!
+Nap time!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naptime now!
+Naturally be!
+Naughty face!
+Near always!
+Near and far!
+Near grandma!
+Near near!
+Near to heart!
+Nearer and nearer!
+Nearest ever!
+Nearly done!
+Nearly there!
+Necessary you!
+Needed one!
+Nestled in!
+Nestled right!
+Never absent!
+Never ending!
+Never ending!
+Never far!
+Never leave!
+Never stopping!
+New day!
+New discovery!
+New every day!
+New food!
+New thing!
+New tooth!
+New walker!
+Next to mama!
+Nice and cozy!
+Nice and warm!
+Nice dream!
+Nice gentle!
+Nice sharing!
+Nice try!
+Nicest ever!
+Night coming!
+Night night sweetie
+Night night!
+Night sky!
 No matter what!
 No matter when!
 No matter where!
-I love you!
-Always love you!
-Forever you!
-My baby!
-My love!
-My joy!
-My world!
-My everything!
-My heart!
-My life!
-My dream!
-My wish!
-My treasure!
-My prize!
-My delight!
-My wonder!
-My miracle!
-My gift!
-My blessing!
-My hope!
-My light!
-My sun!
-My moon!
-My star!
-My sky!
-My cloud!
-My rainbow!
-My flower!
-My song!
-My music!
-My story!
-My adventure!
-My journey!
-My path!
-My future!
-My today!
-My smile!
-My laugh!
-My happiness!
-My comfort!
-My peace!
-My calm!
-My safe place!
-My warmth!
-My home!
-My family!
-My baby dear!
-Dear baby!
-Sweet dear!
-Dearest one!
-Darling dear!
-My darling!
-Sweetheart!
-Sweet heart!
-Warm heart!
-Kind heart!
-Big heart!
-Open heart!
-Loving heart!
-Happy heart!
-Joyful heart!
-Silly heart!
-Gentle heart!
-Brave heart!
-Strong heart!
-Smart heart!
-Little heart!
-Tiny heart!
-My whole heart!
-Full of love!
-Overflowing love!
-Spilling love!
-Giving love!
-Sharing love!
-Spreading love!
-Love all around!
-Surrounded love!
-Covered in love!
-Wrapped in love!
-Cradled in love!
-Held in love!
-Carried in love!
-Lifted with love!
-Supported love!
-Uplifted love!
-Love holds you!
-Arms of love!
-Hands of love!
-Heart of love!
-Soul of love!
-Voice of love!
-Words of love!
-Songs of love!
-Touch of love!
-Warmth of love!
-Glow of love!
-Light of love!
-Shine of love!
-Rays of love!
-Beams of love!
-Love shines bright!
-Bright bright love!
-Clear clear love!
-True true love!
-Pure pure love!
-Clean love!
-Simple love!
-Easy love!
-Free love!
-Open love!
-Wide love!
-Broad love!
-Deep love!
-Tall love!
-Long love!
-Short sweet love!
-Sweet love!
-Kind love!
-Soft love!
-Gentle love!
-Warm love!
-Cozy love!
-Snug love!
-Safe love!
-Sure love!
-Strong love!
-Firm love!
-Steady love!
-Constant love!
-Consistent love!
-Reliable love!
-Trustworthy love!
-Faithful love!
-Loyal love!
-True love!
-Real love!
-Genuine love!
-Authentic love!
-Honest love!
-Open love!
-Transparent love!
-Beautiful love!
-Wonderful love!
-Magnificent love!
-Glorious love!
-Splendid love!
-Grand love!
-Great love!
-Huge love!
-Immense love!
-Vast love!
-Infinite love!
-Forever love!
-Eternal love!
-Timeless love!
-Ageless love!
-Undying love!
-Undying!
-Growing love!
-Blooming love!
-Flourishing love!
-Thriving love!
-Living love!
-Breathing love!
-Moving love!
-Dancing love!
-Singing love!
-Ringing love!
-Resounding love!
-Echoing love!
-Reverberating!
-Resonating love!
-Vibrating love!
-Pulsing love!
-Beating love!
-Flowing love!
-Streaming love!
-Pouring love!
-Rushing love!
-Gushing love!
-Bursting love!
-Overflowing!
-Brimming love!
-Full full love!
-Filled love!
-Complete love!
-Whole love!
-Total love!
-Absolute love!
-Ultimate love!
-Supreme love!
-Best love!
-Highest love!
-Deepest love!
-Purest love!
-Finest love!
-Greatest love!
-My greatest love!
-You my love!
-Baby my love!
-Love of my life!
-Life of my love!
-Joy of life!
-Gift of life!
-Blessing of life!
-Wonder of life!
-Miracle of life!
-Magic of life!
-Beauty of life!
-Light of life!
-Heart of life!
-Soul of life!
-Love of all!
-Most of all!
-Best of all!
-First of all!
-Above all!
-Beyond all!
-Over all!
-Through all!
-In all!
-Through all things!
-All things you!
-You in all!
-You above all!
-You most of all!
-You first always!
-Always first you!
-You number one!
-First place you!
-Gold star you!
-Top prize you!
-Champion baby!
-Winner baby!
-Winner always!
-Always winning!
-Winning at life!
-Life so good!
-Good good life!
-Happy life!
-Joyful life!
-Wonderful life!
-Beautiful life!
-Bright life!
-Full life!
-Rich life!
-Sweet life!
-Kind life!
-Gentle life!
-Loving life!
-Life with you!
-With you always!
-Always with you!
-Together always!
-Inseparable us!
-Side by side!
-Step by step!
-Day by day!
-Moment by moment!
-Now and always!
-Here and there!
-Near and far!
-High and low!
-Then and now!
-Past and future!
-Today tomorrow!
-Morning evening!
-Wake and sleep!
-Play and rest!
-Laugh and learn!
-Grow and bloom!
-Shine and glow!
-Rise and soar!
-Reach and grow!
-Dream and do!
-Wish and win!
-Hope and thrive!
-Live and love!
-Love and live!
-Live and laugh!
-Laugh and love!
-Love and laugh!
-Laugh love live!
-Live love laugh!
-Laugh live love!
-Love all ways!
-Every single way!
-Each and every!
-One and all!
-All and one!
-You are one!
-One of a kind!
-One in a million!
-Million in one!
-Unique special you!
-Special unique you!
-Perfectly unique!
-Uniquely perfect!
-Beautifully made!
-Wonderfully made!
-Lovingly made!
-Made with love!
-Born with love!
-Loved since before!
-Before you came!
-Loved in waiting!
-Waited for you!
-Wanted always you!
-Wished for you!
-Dreamed of you!
-You came true!
-Dream came true!
-Wish fulfilled!
-Hope realized!
-Prayer answered!
-Gift received!
-Blessing arrived!
-You are here!
-Here with me!
-With me now!
-Now and forever!
-Forever here!
-Here forever!
-Always here!
-Here always!
-Now always!
-Always now!
-Present always!
-Always present!
-Never absent!
-Never far!
-Always near!
-Near always!
-Close close!
-Closest to heart!
-Heart's closest!
-Closest one!
-Number one always!
-Always number one!
-Forever first!
-First always!
-Always first!
-Last and first!
-First and last!
-All in all!
-Everything!
-All all all!
-Love love love!
-Pretty baby!
-Rosy lips!
-Tiny hands!
-Dimple cheeks!
-Little dimples!
-Chubby wrists!
-Round tummy!
-Soft skin!
-Silky hair!
-Curly hair!
-Fine hair!
-Fuzzy head!
-Bald head!
-Cute head!
-Big forehead!
-Tiny chin!
-Little jaw!
-Baby lashes!
-Long lashes!
-Fluttery eyes!
-Blinky eyes!
-Sleepy eyes!
-Bright eyes!
-Wide eyes!
-Blinking now!
-Looking around!
-So aware!
-Very alert!
+No no no!
+No no!
+Nobody like you!
+Nom nom!
+Nose nose!
+Not long now!
+Notable love!
+Nothing scary!
 Noticing things!
-Taking it in!
-Learning always!
-Always learning!
-Absorbing all!
-Growing brain!
-Smart growing!
-Developing fast!
-Changing fast!
-New every day!
-Daily changes!
-Growing daily!
-Day by day!
-Week by week!
-Look at you!
-Look how grown!
-So grown up!
-Big kid now!
-Getting bigger!
-Almost toddler!
-My toddler!
-Young walker!
-Little walker!
-New walker!
-First steps!
-Wobbly walk!
-Steady walk!
-Getting steadier!
-Step by step!
-One step more!
-Another step!
-Keep stepping!
-Stepping forward!
-Moving forward!
-Always forward!
-Forward we go!
-Onward now!
-Moving on!
-Let's move!
-Come along!
-Right behind you!
-Right beside!
-Right here!
-Watching you!
-Cheering you!
-Rooting for you!
-Your biggest fan!
-Fan number one!
-Always cheering!
-Go go go!
-You got this!
-Believe in you!
-Trust yourself!
-Try your best!
-Best is enough!
-Enough always!
-Always enough!
-You are enough!
-More than enough!
-So much more!
-Beyond enough!
-Extra special!
-Super special!
-Exceptionally you!
-Rare treasure!
-Priceless baby!
-Worth everything!
-Invaluable you!
-Irreplaceable you!
+Now always!
+Now and always!
+Now and forever!
+Now is love!
+Num num!
+Number one always!
+Number one!
+Oatmeal time!
+Oceans of love!
+Of course!
+Off we go!
+Oh wow!
+Oink oink!
+On and on love!
+On and on!
+On our way!
+On the path!
+On the right!
+On the way!
+On track!
+Once upon!
+One and all!
+One and only!
+One big heart!
+One in a million!
+One little story!
+One little!
+One of a kind!
+One of a kind!
 One only you!
+One step more!
+One two three!
+One!
+Ongoing love!
+Only for you!
 Only one you!
-Singular baby!
-Singular beauty!
-Rare beauty!
-Unique beauty!
+Only one!
+Onward now!
+Open heart!
+Open it!
+Open love!
+Open love!
+Open wide!
+Openly be!
+Openly loved!
+Openly loved!
+Optimally cozy!
+Orange!
+Ordered right!
+Organized right!
 Original baby!
 Original recipe!
-Genuine article!
-True original!
-One and only!
-Only one!
-My only love!
-Love of loves!
-Baby of babies!
-Best of bests!
-Top of tops!
-Cream of crop!
+Our dream!
+Our family!
+Out the box!
+Outside in!
+Outside time!
+Over all!
+Over and over!
+Over here!
+Over the rug!
+Over there!
+Overflowing love!
+Overflowing!
+PJs on!
+Paci paci!
+Pajama time!
+Papa adore you
+Papa adores angel!
+Papa adores baby!
+Papa adores baby!
+Papa adores cutie!
+Papa adores cutie!
+Papa adores cutie!
+Papa adores darling!
+Papa adores darling!
+Papa adores darling!
+Papa adores darling!
+Papa adores darling!
+Papa adores honey!
+Papa adores honey!
+Papa adores honey!
+Papa adores honey!
+Papa adores joy!
+Papa adores lovebug!
+Papa adores lovebug!
+Papa adores lovebug!
+Papa adores sweetie!
+Papa adores you!
+Papa adores you!
+Papa adores you!
+Papa always
+Papa always
+Papa always yours
+Papa baby giggles!
+Papa baby giggles!
+Papa baby giggles!
+Papa baby giggles!
+Papa beam back
+Papa beat same
+Papa believe you
+Papa big clap!
+Papa big hug time!
+Papa big joy
+Papa big love
+Papa big wave!
+Papa biggest
+Papa blanket wrap
+Papa bounce high
+Papa bounce!
+Papa bright light
+Papa burp burp!
+Papa burp song
+Papa careful now
+Papa carry you
+Papa chase baby!
+Papa cheer on!
+Papa clap clap
+Papa clap loud
+Papa claps angel!
+Papa claps angel!
+Papa claps angel!
+Papa claps angel!
+Papa claps angel!
+Papa claps angel!
+Papa claps angel!
+Papa claps angel!
+Papa claps cutie!
+Papa claps cutie!
+Papa claps cutie!
+Papa claps darling!
+Papa claps for baby!
+Papa claps for baby!
+Papa claps for baby!
+Papa claps for joy!
+Papa claps for joy!
+Papa claps for joy!
+Papa claps for you!
+Papa claps for you!
+Papa claps for you!
+Papa claps honey!
+Papa claps honey!
+Papa claps lovebug!
+Papa claps lovebug!
+Papa claps lovebug!
+Papa claps lovebug!
+Papa claps lovebug!
+Papa claps precious!
+Papa claps precious!
+Papa claps precious!
+Papa claps precious!
+Papa claps sunshine!
+Papa claps sweetie!
+Papa claps sweetie!
+Papa claps sweetie!
+Papa claps sweetie!
+Papa come here!
+Papa come here!
+Papa come here!
+Papa come here!
+Papa come here!
+Papa complete
+Papa content
+Papa coo Papa!
+Papa dance!
+Papa dream big
+Papa dream land
+Papa echo back
+Papa every night
+Papa feel it
+Papa fist bump!
+Papa forever love
+Papa funny noise
+Papa giggle too
+Papa goo goo
+Papa good job baby!
+Papa good job baby!
+Papa good job baby!
+Papa good job baby!
+Papa good job baby!
+Papa grateful
+Papa guard you
+Papa guide you
+Papa happy baby!
+Papa happy baby!
+Papa happy baby!
+Papa happy baby!
+Papa heart full
+Papa high five!
+Papa hug bug!
+Papa hugs angel!
+Papa hugs angel!
+Papa hugs baby!
+Papa hugs baby!
+Papa hugs baby!
+Papa hugs baby!
+Papa hugs cutie!
+Papa hugs cutie!
+Papa hugs cutie!
+Papa hugs darling!
+Papa hugs darling!
+Papa hugs honey!
+Papa hugs honey!
+Papa hugs honey!
+Papa hugs honey!
+Papa hugs honey!
+Papa hugs joy!
+Papa hugs joy!
+Papa hugs joy!
+Papa hugs joy!
+Papa hugs joy!
+Papa hugs joy!
+Papa hugs joy!
+Papa hugs lovebug!
+Papa hugs lovebug!
+Papa hugs lovebug!
+Papa hugs lovebug!
+Papa hugs precious!
+Papa hugs precious!
+Papa hugs precious!
+Papa hugs precious!
+Papa hugs precious!
+Papa hugs precious!
+Papa hugs sunshine!
+Papa hugs sunshine!
+Papa hugs sunshine!
+Papa hugs sweetie!
+Papa hugs sweetie!
+Papa hugs sweetie!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hugs you!
+Papa hush hush
+Papa in awe
+Papa infinite
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa is here!
+Papa join in
+Papa kiss bug
+Papa kiss each
+Papa kiss forehead
+Papa kiss head
+Papa kiss it
+Papa kiss kiss
+Papa kisses angel!
+Papa kisses baby!
+Papa kisses baby!
+Papa kisses cutie!
+Papa kisses cutie!
+Papa kisses cutie!
+Papa kisses darling!
+Papa kisses darling!
+Papa kisses darling!
+Papa kisses darling!
+Papa kisses darling!
+Papa kisses honey!
+Papa kisses joy!
+Papa kisses joy!
+Papa kisses joy!
+Papa kisses lovebug!
+Papa kisses lovebug!
+Papa kisses lovebug!
+Papa kisses lovebug!
+Papa kisses lovebug!
+Papa kisses sweetie!
+Papa kisses sweetie!
+Papa kisses sweetie!
+Papa kisses sweetie!
+Papa kisses sweetie!
+Papa kisses sweetie!
+Papa kisses sweetie!
+Papa kisses you!
+Papa kisses you!
+Papa kisses you!
+Papa kisses you!
+Papa kisses you!
+Papa kisses you!
+Papa laughs angel!
+Papa laughs angel!
+Papa laughs angel!
+Papa laughs angel!
+Papa laughs angel!
+Papa laughs angel!
+Papa laughs angel!
+Papa laughs baby!
+Papa laughs baby!
+Papa laughs baby!
+Papa laughs cutie!
+Papa laughs cutie!
+Papa laughs darling!
+Papa laughs darling!
+Papa laughs darling!
+Papa laughs honey!
+Papa laughs honey!
+Papa laughs joy!
+Papa laughs lovebug!
+Papa laughs lovebug!
+Papa laughs you!
+Papa laughs you!
+Papa laughs you!
+Papa laughs you!
+Papa laughs you!
+Papa laughs you!
+Papa lead way
+Papa let's clap!
+Papa let's clap!
+Papa let's clap!
+Papa let's clap!
+Papa let's clap!
+Papa lift high!
+Papa lift up
+Papa light up
+Papa love shine
+Papa loves angel!
+Papa loves angel!
+Papa loves angel!
+Papa loves angel!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves baby!
+Papa loves cutie!
+Papa loves cutie!
+Papa loves darling!
+Papa loves darling!
+Papa loves darling!
+Papa loves honey!
+Papa loves honey!
+Papa loves joy!
+Papa loves joy!
+Papa loves joy!
+Papa loves laugh
+Papa loves lovebug!
+Papa loves lovebug!
+Papa loves lovebug!
+Papa loves lovebug!
+Papa loves lovebug!
+Papa loves precious!
+Papa loves precious!
+Papa loves sunshine!
+Papa loves sunshine!
+Papa loves sunshine!
+Papa loves sunshine!
+Papa loves sweetie!
+Papa loves sweetie!
+Papa loves sweetie!
+Papa loves sweetie!
+Papa loves sweetie!
+Papa loves sweetie!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa loves you!
+Papa melt
+Papa morning kiss!
+Papa morning kiss!
+Papa morning kiss!
+Papa morning kiss!
+Papa morning kiss!
+Papa morning kiss!
+Papa morning kiss!
+Papa my cutie!
+Papa my cutie!
+Papa naptime now!
+Papa naptime now!
+Papa naptime now!
+Papa never let go
+Papa night night
+Papa nuzzle deep
+Papa nuzzle nose
+Papa pat back
+Papa peace here
+Papa peekaboo!
+Papa peekaboo!
+Papa peekaboo!
+Papa peekaboo!
+Papa peekaboo!
+Papa peekaboo!
+Papa peekaboo!
+Papa peekaboo!
+Papa pinch soft
+Papa plant kisses
+Papa plays angel!
+Papa plays angel!
+Papa plays angel!
+Papa plays angel!
+Papa plays angel!
+Papa plays angel!
+Papa plays angel!
+Papa plays baby!
+Papa plays baby!
+Papa plays baby!
+Papa plays cutie!
+Papa plays cutie!
+Papa plays cutie!
+Papa plays cutie!
+Papa plays cutie!
+Papa plays darling!
+Papa plays darling!
+Papa plays honey!
+Papa plays lovebug!
+Papa plays lovebug!
+Papa plays lovebug!
+Papa plays lovebug!
+Papa plays precious!
+Papa plays precious!
+Papa plays precious!
+Papa plays precious!
+Papa plays precious!
+Papa plays precious!
+Papa plays sunshine!
+Papa plays sunshine!
+Papa plays sunshine!
+Papa plays sunshine!
+Papa plays sunshine!
+Papa plays sunshine!
+Papa plays sweetie!
+Papa plays sweetie!
+Papa plays with joy!
+Papa plays with joy!
+Papa plays with joy!
+Papa plays with you!
+Papa plays with you!
+Papa protect you
+Papa proud steps
+Papa proud!
+Papa prove it
+Papa record it
+Papa relax too
+Papa roll floor!
+Papa safe arms
+Papa say whoa!
+Papa see might
+Papa sees angel!
+Papa sees angel!
+Papa sees baby!
+Papa sees baby!
+Papa sees baby!
+Papa sees baby!
+Papa sees cutie!
+Papa sees cutie!
+Papa sees cutie!
+Papa sees cutie!
+Papa sees cutie!
+Papa sees darling!
+Papa sees darling!
+Papa sees darling!
+Papa sees honey!
+Papa sees honey!
+Papa sees joy!
+Papa sees joy!
+Papa sees joy!
+Papa sees joy!
+Papa sees joy!
+Papa sees joy!
+Papa sees joy!
+Papa sees lovebug!
+Papa sees lovebug!
+Papa sees lovebug!
+Papa sees lovebug!
+Papa sees precious!
+Papa sees precious!
+Papa sees precious!
+Papa sees precious!
+Papa sees sunshine!
+Papa sees sunshine!
+Papa sees sunshine!
+Papa sees sweetie!
+Papa sees sweetie!
+Papa sees sweetie!
+Papa sees you!
+Papa sees you!
+Papa sees you!
+Papa sees you!
+Papa sees you!
+Papa sees you!
+Papa shine bright
+Papa shine on
+Papa shout
+Papa shout loud
+Papa silly dance
+Papa silly face
+Papa silly sound
+Papa sing low
+Papa slow slow
+Papa smile big!
+Papa smile big!
+Papa smile big!
+Papa smile big!
+Papa smile big!
+Papa smile big!
+Papa smile soft
+Papa smiles angel!
+Papa smiles angel!
+Papa smiles angel!
+Papa smiles at baby!
+Papa smiles at baby!
+Papa smiles at baby!
+Papa smiles at baby!
+Papa smiles at joy!
+Papa smiles at joy!
+Papa smiles at joy!
+Papa smiles at joy!
+Papa smiles at joy!
+Papa smiles at you!
+Papa smiles at you!
+Papa smiles cutie!
+Papa smiles cutie!
+Papa smiles cutie!
+Papa smiles cutie!
+Papa smiles cutie!
+Papa smiles darling!
+Papa smiles darling!
+Papa smiles darling!
+Papa smiles darling!
+Papa smiles honey!
+Papa smiles honey!
+Papa smiles honey!
+Papa smiles lovebug!
+Papa smiles lovebug!
+Papa smiles lovebug!
+Papa smiles lovebug!
+Papa smiles sweetie!
+Papa smiles sweetie!
+Papa smiles sweetie!
+Papa smiles sweetie!
+Papa smiles sweetie!
+Papa soft pat
+Papa spin spin
+Papa stay here
+Papa strong hand
+Papa swear it
+Papa sweet baby!
+Papa sweet baby!
+Papa sweet baby!
+Papa sweet baby!
+Papa tickle toes
+Papa tickle!
+Papa tie tight
+Papa treasure
+Papa waits angel!
+Papa waits angel!
+Papa waits angel!
+Papa waits angel!
+Papa waits angel!
+Papa waits cutie!
+Papa waits cutie!
+Papa waits cutie!
+Papa waits cutie!
+Papa waits darling!
+Papa waits for baby!
+Papa waits for baby!
+Papa waits for baby!
+Papa waits for joy!
+Papa waits for joy!
+Papa waits for joy!
+Papa waits for you!
+Papa waits for you!
+Papa waits for you!
+Papa waits for you!
+Papa waits honey!
+Papa waits honey!
+Papa waits honey!
+Papa waits honey!
+Papa waits honey!
+Papa waits honey!
+Papa waits lovebug!
+Papa waits lovebug!
+Papa waits lovebug!
+Papa waits lovebug!
+Papa waits lovebug!
+Papa waits lovebug!
+Papa waits precious!
+Papa waits precious!
+Papa waits precious!
+Papa waits precious!
+Papa waits precious!
+Papa waits sunshine!
+Papa waits sunshine!
+Papa waits sunshine!
+Papa waits sunshine!
+Papa waits sweetie!
+Papa waits sweetie!
+Papa waits sweetie!
+Papa warm hug
+Papa whole love
+Papa wiggle them
+Papa you are cute!
+Papa you are cute!
+Papa yours too
+Papa yummy yum!
+Papa yummy yum!
+Papa's bloom
+Papa's buddy
+Papa's champ
+Papa's daughter
+Papa's delight
+Papa's girl
+Papa's glow
+Papa's helper
+Papa's hero
+Papa's king
+Papa's moon
+Papa's number one
+Papa's shoulder
+Papa's son
+Papa's strong boy
+Papa's treasure
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Papa's turn!
+Part of heart!
+Part of me!
+Party for you!
+Past and future!
+Pat your head!
+Patience dear!
+Peaceful dream!
+Peaceful now!
+Peaceful now!
+Peacefully loved!
+Peach fuzz!
+Peachy baby!
+Peachy keen!
+Pear pear!
+Peas peas!
+Peek a boo!
+Peek through!
+Peekaboo baby!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Peekaboo!
+Perfect baby!
+Perfectly snug!
+Perfectly unique!
+Perfectly you!
+Permanent love!
+Perpetually loved!
+Persist in love!
+Persisting love!
 Pick of litter!
-Best pick!
-Chosen one!
-My chosen!
-Selected heart!
-Wanted child!
-Needed one!
-Essential baby!
-Necessary you!
-Required love!
-Demanded love!
-Desired you!
-Cherished one!
-Adored baby!
-Worshipped one!
-Treasured dear!
-Valued most!
-Prized above all!
-First prize!
-Blue ribbon!
-Gold medal!
-Golden baby!
-Medal worthy!
-Trophy baby!
-Award winner!
-Star player!
-Mvp baby!
-Most valuable!
-Valuable beyond!
+Pick one up!
+Piece of me!
+Piece of soul!
+Piglet!
+Piles of love!
+Pillow time!
+Pinchy cheeks!
+Pink pink!
+Pitter patter!
+Placed right!
+Plane plane!
+Planted right!
+Play and rest!
+Play time!
+Playful one!
+Playing together!
+Please!
+Plunge in love!
+Point to it!
+Pointed right!
+Pools of kisses!
+Porridge time!
+Positioned right!
+Pouring love!
+Prayer answered!
 Precious beyond!
-Priceless!
+Precious heart!
+Precious sleep!
+Present always!
+Present moment!
+Present time!
+Prettier prettier!
+Prettiest!
+Pretty baby!
+Pretty flower!
+Pretty peachy!
+Prevail in love!
+Priceless baby!
 Priceless dear!
+Priceless!
+Prized above all!
+Profound bond!
+Progressing well!
+Promise you!
+Prosper in love!
+Proud of you!
+Pudding pop!
+Pudgy arms!
+Puff puff!
+Pull pull!
+Pulsing love!
+Pumpkin dear!
+Pumpkin pie!
+Pup pup!
+Pure pure love!
+Purely be!
+Purely loved!
+Purer and purer!
+Purest ever!
+Purest love!
+Purple!
+Push it!
+Push push!
+Put it down!
+Put together!
+Puzzle time!
+Quack quack!
+Quiet inside!
+Quiet quiet!
+Quiet quiet!
+Quiet time!
+Quietly loved!
+Radiance of love!
+Radiate!
+Rain rain!
+Raindrop!
+Rapture of love!
+Rare beauty!
 Rare find!
-Special find!
-Lucky find!
-Lucky me!
-Fortunate me!
-Blessed are we!
+Rare treasure!
+Rattle rattle!
+Ray of light!
+Rays of love!
+Reach and grow!
+Reach out!
+Ready set go!
+Ready to go!
+Ready to ride!
+Ready?
+Real love!
+Realized dream!
+Really be!
+Really really love!
+Red red!
+Relax now!
+Reliable love!
+Remain in love!
+Remarkable love!
+Required love!
+Resonating love!
+Resounding love!
+Resplendence!
+Rest easy!
+Rest now!
+Rest well!
+Returning always!
+Returning love!
+Reverberating!
+Ribbit!
+Rich life!
+Richer and richer!
+Richly be!
+Right away!
+Right behind you!
+Right beside!
+Right beside!
+Right here now!
+Right here!
+Right on track!
+Right on!
+Ring of love!
+Ring ring!
+Ringing love!
+Rinse off!
+Rip it open!
+Rise and shine!
+Rise and soar!
+Rise shine!
+Rivers of love!
+Roar!
+Roast beef!
+Rock a bye!
+Rock rock!
+Rock rock!
+Rock solid!
+Rocking dolly!
+Roll it!
+Roll over!
+Roll through!
+Rooted right!
+Rooting for you!
+Rosy cheeks!
+Rosy lips!
+Rosy peach!
+Round and round!
+Round and round!
+Round round!
+Round the corner!
+Round tummy!
+Run run!
+Rushing love!
+Safe love!
+Safe with me!
+Saturate in love!
+Search search!
+See the bird?
+See the bug?
+See the cat?
+See the dog?
+See you morning!
+See you soon!
+See you then!
+Seek!
+Selected heart!
+Serenely loved!
+Set right!
+Settle in!
+Settled in!
+Settled right!
+Shake it!
+Shake shake!
+Shake your head!
+Share share!
+Shared dream!
+Shared joy!
+Sharing love!
+Sharing now!
+Shh dolly sleeps!
+Shh shh shh!
+Shh shh!
+Shimmer of love!
+Shimmer!
+Shimmy!
+Shine and glow!
+Shine of love!
+Shine on!
+Shiniest ever!
+Shining dream!
+Shining star!
+Shoes on!
+Short short!
+Short sweet love!
+Shout for joy!
+Show me please!
+Show me!
+Side by side!
+Side by side!
+Side to side!
+Side to side!
+Silky hair!
+Silly face!
+Silly giggle!
+Silly heart!
+Silly silly!
+Silly smell!
+Simple love!
+Simply be!
+Simply loved!
+Sincerely be!
+Sincerely loved!
+Sing for joy!
+Sing sing!
+Singing love!
+Singular baby!
+Singular beauty!
+Sip sip!
+Sippy cup!
+Sit down!
+Sit up tall!
+Sit up!
+Situated right!
+Skies full of love!
+Sleep tight sweetie
+Sleep tight!
+Sleep well!
+Sleeping now!
+Sleepy baby?
+Sleepy eyes!
+Sleepy head!
+Slice of heaven!
+Slide down!
+Slow and steady!
+Slow down!
+Slow slow!
+Slowly now!
+Small small!
+Smart cookie!
+Smart growing!
+Smart heart!
+Smell it!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smile big!
+Smiling baby!
+Smiling together!
+Smooch!
+Snack time!
+Sneaky baby!
+Sniff sniff!
+Snoozing!
+Snore snore!
+Snug and warm!
+Snug cozy warm!
+Snug love!
+Snug right!
+Snuggest ever!
+Snuggle bunny!
+Snuggle up!
+Snuggled in!
+Snuggly!
+So aware!
+So beautiful!
+So big now!
 So blessed!
+So bright!
+So clean!
+So colorful!
+So cool!
+So curious!
+So fun!
+So funny!
+So giggly!
+So good!
+So grown up!
+So kind!
+So lovely!
+So messy!
+So much love!
+So much more!
+So precious!
+So pretty!
+So proud!
+So so loved!
+So so much!
+So sweet!
+So tiny!
+So very much!
+So yummy!
+Soak in love!
+Soar for joy!
+Socks on!
+Soft baby hair
+Soft blankie!
+Soft grass!
+Soft hands!
+Soft little hand
+Soft love!
+Soft peach!
+Soft skin!
+Soft soft cheeks!
+Soft soft!
+Soft soft!
+Soft soft!
+Soft teddy!
+Softer and softer!
+Softest ever!
+Softly loved!
+Solid love!
+Songs of love!
+Soon soon!
+Soothe soothe!
+Sore gums?
+Soul of life!
+Soul of love!
+Soul of souls!
+Soup time!
+Spark of life!
+Sparkle!
+Sparkliest!
+Sparkling eyes!
+Special find!
+Special treat!
+Special unique you!
+Specially you!
+Spilling love!
+Spin around!
+Spin spin!
+Spit it out!
+Splash splash!
+Splashy puddle!
+Splendid love!
+Splendider!
+Splendor of life!
+Splish splash!
+Spread out!
+Spreading love!
+Squeaky clean!
+Squeezable!
+Squeeze through!
+Squeezy!
+Squish!
+Squishy cheeks!
+Squishy!
+Stack it up!
+Stamp stamp!
+Stand still!
+Star player!
+Starbeam!
+Stars of kisses!
+Stars out!
+Stay in love!
+Steady love!
+Steady now!
+Steady walk!
+Step by step!
+Step by step!
+Step over!
+Step step!
+Stepping forward!
+Stinky!
+Stomp along!
+Stomp stomp!
+Stomp your feet!
+Stop stop!
+Story time!
+Streaming love!
+Stretch out!
+Stroller time!
+Strong baby!
+Strong baby!
+Strong heart!
+Strong love!
+Stronger stronger!
+Succeed in love!
+Such a dream!
+Sudsy hands!
+Sugar pie!
+Sugar plum!
+Sun is up!
+Sun on face!
+Sunbeam!
+Sunrise to sunset!
+Suns of hugs!
+Super baby!
+Super special!
+Super star!
+Superstar!
+Suppertime!
+Supported love!
+Supreme love!
+Sure love!
+Sure thing!
+Surprise us!
+Surprise!
+Surrounded love!
+Swaddled snug!
+Swaddled tight!
+Sway sway!
+Sway!
+Sweet baby breath
+Sweet baby face
+Sweet baby smell
+Sweet baby smile
+Sweet baby voice
+Sweet baby yawn
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet baby!
+Sweet boy mine
+Sweet cheeks
+Sweet dear!
+Sweet dream!
+Sweet dreams baby
+Sweet dreams baby
+Sweet dreams!
+Sweet girl always
+Sweet girl mine
+Sweet heart!
+Sweet life!
+Sweet little nose
+Sweet little one
+Sweet little one
+Sweet love!
+Sweet pea baby
+Sweet pea!
+Sweet potato!
+Sweet pumpkin!
+Sweet rascal!
+Sweet sleepy eyes
+Sweet sleepyhead
+Sweeter and sweeter!
+Sweetest ever!
+Sweetest pie!
+Sweetheart!
+Swim in joy!
+Swing high!
+Swing swing!
+Tag you're it!
+Take apart!
+Take it!
+Take off shoes!
+Taken right!
+Taking it in!
+Tall love!
+Tall tall!
+Tasty!
+Team family!
+Teddy bear!
+Teeny tiny!
+Teeny weeny!
+Teeth coming!
+Teething baby!
+Tell me!
+Tenderly loved!
+Thank you!
+That one!
+That way!
+The end!
+Then and now!
+There he is!
+There it is!
+There there!
+There you are!
+Thirsty baby?
+This is love!
+This little piggy!
+This moment!
+This one!
+This piggy went!
+This way!
+This way!
+Thoughtful!
+Three hearts!
+Three little!
+Three!
+Thrive in love!
+Thriving love!
+Thriving now!
+Through all things!
+Through all!
+Through and through!
+Through and through!
+Through the door!
+Throw it!
+Tickle tickle!
+Tickle time!
+Tie of love!
+Tight squeeze!
+Time for bed!
+Time to go!
+Timeless love!
+Tiny angel!
+Tiny baby grip
+Tiny baby laugh
+Tiny baby sigh
+Tiny baby sigh
+Tiny baby toes
+Tiny chin!
+Tiny feet!
+Tiny fingers grip
+Tiny hands pat
+Tiny hands reach
+Tiny hands!
+Tiny heart!
+Tiny heartbeat
+Tiny miracle
+Tiny miracle baby
+Tiny nose!
+Tiny toes curl
+Tiny toes wiggle
+Tiny toes!
+Tiny tot!
+Tip toe!
+To the moon!
+Today tomorrow!
+Toes kiss!
+Toes toes!
+Together always!
+Together always!
+Together dream!
+Together in love!
+Together joy!
+Together love us!
+Together now!
+Toothy grin!
+Top of the world!
+Top of tops!
+Top prize you!
+Top to bottom!
+Top to toe!
+Total love!
+Totally cozy!
+Totally love!
+Totally loved!
+Touch gently!
+Touch of love!
+Touch your nose!
+Towel time!
+Toy time!
+Train train!
+Transparent love!
+Traveled right!
+Treasured dear!
+Treat time!
+Tremendous love!
+Tremendously loved!
+Triumph in love!
+Trophy baby!
+True dream!
+True love!
+True original!
+True true love!
+Truer and truer!
+Truest ever!
+Truly be!
+Truly love!
+Truly loved!
+Trust yourself!
+Trustworthy love!
+Try a piece!
+Try again!
+Try again?
+Try something!
+Try your best!
+Tuck in!
+Tucked in tight!
+Tucked right!
+Tummy full?
+Tummy time!
+Turn around!
+Turn the page!
+Turned right!
+Tweet tweet!
+Twinkle of joy!
+Twinkle twinkle!
+Twinkle!
+Twinkliest!
+Twinkly eyes!
+Two hearts!
+Two little!
+Two!
+Ultimate love!
+Unbreakable bond!
+Unbroken love!
+Under and through!
+Under covers!
+Under the table!
+Undying love!
+Undying!
+Unforgettable!
+Unique baby!
+Unique beauty!
+Unique special you!
+Uniquely perfect!
+United joy!
+Universes of love!
+Up and over!
+Up down!
+Up high!
+Up the stairs!
+Up up up!
+Up we go!
+Up we go!
+Uplifted love!
+Us love together!
+Us together!
+Us we love!
+Utterly comfy!
+Valuable beyond!
+Valued most!
+Vast love!
+Vastly loved!
+Ventured right!
+Very alert!
+Very much!
+Vibrating love!
+Vivid dream!
+Voice of love!
+Vroom vroom!
+Wait for it!
+Waited for you!
+Waiting well!
+Wake and sleep!
+Wake up soon!
+Waking dream!
+Walk to me!
+Walking together!
+Wanted always you!
+Wanted child!
+Warm and snug!
+Warm heart!
+Warm inside!
+Warm love!
+Warm snug cozy!
+Warm sunshine!
+Warm warm!
+Warmer and warmer!
+Warmest ever!
+Warmly loved!
+Warmth of love!
+Wash hands!
+Watch out!
+Watch this!
+Watching you!
+Watermelon!
+Wave bye bye!
+Wave hi!
+Way down deep!
+We are love!
+We love us!
+We'll see!
+We're here!
+We're home!
+Wee wee wee!
+Week by week!
+Welcome home!
+Well done!
+Wet wet!
+What a dream!
 What a gift!
 What a joy!
 What a wonder!
-What a dream!
-Such a dream!
-Dream baby!
-Dream come true!
-True dream!
-Realized dream!
-Living dream!
-Waking dream!
-Beautiful dream!
-Golden dream!
-Shining dream!
-Bright dream!
-Clear dream!
-Vivid dream!
-Colorful dream!
-Happy dream!
-Joyful dream!
-Peaceful dream!
-Sweet dream!
-Nice dream!
-Great dream!
-Grand dream!
-Magnificent dream!
-My dream!
-Our dream!
-Family dream!
-Together dream!
-Shared dream!
-Common dream!
-Mutual joy!
-Shared joy!
-Common joy!
-Joined joy!
-United joy!
-Together joy!
-Combined love!
-Merged hearts!
-Two hearts!
-Three hearts!
-Family heart!
-One big heart!
-Giant heart!
-Enormous love!
-Colossal love!
-Tremendous love!
-Extraordinary!
-Exceptional love!
-Remarkable love!
-Notable love!
-Memorable love!
-Unforgettable!
-Lasting love!
-Permanent love!
-Durable love!
-Enduring love!
-Persisting love!
-Continuing love!
-Ongoing love!
-Never stopping!
-Won't stop!
-Can't stop!
-Always going!
-Never ending!
-Infinite loop!
-Circular love!
-Returning love!
-Coming back!
-Always returning!
-Returning always!
-Here again!
-Back again!
-Again and again!
-Over and over!
-Round and round!
-Loop of love!
-Circle of love!
-Ring of love!
-Band of love!
-Bond of love!
-Tie of love!
-Link of love!
-Chain of love!
-Connection deep!
-Deep connection!
-Profound bond!
-Lasting bond!
-Unbreakable bond!
-Unbroken love!
-Solid love!
-Rock solid!
-Firm ground!
-Foundation love!
-Base of love!
-Core of love!
-Center of love!
-Heart of hearts!
-Soul of souls!
-Deep deep love!
-Way down deep!
-All the way!
-Through and through!
-Inside out!
-Outside in!
-Top to toe!
-Head to heel!
-Front to back!
-Side to side!
-Corner to corner!
-Edge to edge!
-End to end!
-Fully loved!
-Completely loved!
-Totally loved!
-Wholly loved!
-Entirely loved!
-Purely loved!
-Simply loved!
-Freely loved!
-Openly loved!
-Gladly loved!
-Willingly loved!
-Eagerly loved!
-Joyfully loved!
-Happily loved!
-Contentedly loved!
-Blissfully loved!
-Peacefully loved!
-Serenely loved!
-Calmly loved!
-Quietly loved!
-Gently loved!
-Softly loved!
-Kindly loved!
-Warmly loved!
-Tenderly loved!
-Dearly loved!
-Deeply loved!
-Sincerely loved!
-Truly loved!
-Genuinely loved!
-Authentically loved!
-Honestly loved!
-Openly loved!
-Completely loved!
-So so loved!
-Incredibly loved!
-Tremendously loved!
-Hugely loved!
-Immensely loved!
-Greatly loved!
-Enormously loved!
-Vastly loved!
-Boundlessly loved!
-Infinitely loved!
-Eternally loved!
-Everlastingly loved!
-Perpetually loved!
-Endlessly loved!
-Ceaselessly loved!
-Incessantly loved!
-Constantly loved!
-Continually loved!
-Always always!
-More and more!
-Growing and growing!
-Deeper and deeper!
-Further and further!
-Higher and higher!
-Wider and wider!
-Broader and broader!
-Larger and larger!
-Bigger and bigger!
-Greater and greater!
-Better and better!
-Warmer and warmer!
-Sweeter and sweeter!
-Kinder and kinder!
-Gentler and gentler!
-Softer and softer!
-Brighter brighter!
-Closer and closer!
-Nearer and nearer!
-Stronger stronger!
-Richer and richer!
-Fuller and fuller!
-Bolder and bolder!
-Wiser and wiser!
-Truer and truer!
-Purer and purer!
-Clearer and clearer!
-Finer and finer!
-Lovelier lovelier!
-Prettier prettier!
-Grander and grander!
-Splendider!
-More wondrous!
-More magical!
-More delightful!
-More precious!
-More cherished!
-More valued!
-More adored!
-More treasured!
-More prized!
-More desired!
-More needed!
-More wanted!
-More sought!
-More cherished!
-Most loved!
-Loved the most!
-Most precious!
-Most cherished!
-Most adored!
-Most treasured!
-Most valued!
-Most needed!
-Most wanted!
-Most desired!
-Most prized!
-Most dear!
-Dearest to me!
-Near to heart!
-Close to soul!
-Bound to me!
-Part of me!
-Half of me!
-Piece of me!
-Part of heart!
-Piece of soul!
-Bit of life!
-Chunk of joy!
-Slice of heaven!
-Bit of sky!
-Drop of sun!
-Ray of light!
-Beam of joy!
-Flash of love!
-Spark of life!
-Glimmer of hope!
-Twinkle of joy!
-Shimmer of love!
-Gleam of life!
-Glow of heart!
-Radiance of love!
-Brilliance of you!
-Luminance of joy!
-Incandescence!
-Effulgence of love!
-Resplendence!
-Magnificence!
-Grandeur of love!
-Glory of you!
-Splendor of life!
-Wonder of love!
-Magic of you!
-Enchantment!
-Delight of you!
-Rapture of love!
-Bliss of life!
-Elation of you!
-Ecstasy of love!
-Exultation!
-Exhilaration!
-Jubilation!
-Celebration of you!
-Festivity of love!
-Party for you!
-Sing for joy!
-Shout for joy!
-Dance for joy!
-Jump for joy!
-Leap for joy!
-Soar for joy!
-Fly with joy!
-Float on joy!
-Swim in joy!
-Dive in love!
-Plunge in love!
-Immerse in love!
-Bathe in love!
-Soak in love!
-Drench in love!
-Saturate in love!
-Fill up with love!
-Drink up love!
-Eat up love!
-Breathe in love!
-Live in love!
-Be in love!
-Stay in love!
-Grow in love!
-Thrive in love!
-Bloom in love!
-Flourish in love!
-Prosper in love!
-Succeed in love!
-Win in love!
-Triumph in love!
-Prevail in love!
-Persist in love!
-Endure in love!
-Last in love!
-Remain in love!
-Continue in love!
-Carry on love!
-Hold on love!
-Keep on loving!
-Love keeps on!
-On and on love!
-Love goes on!
-Love forever!
-Forever love!
-Evermore love!
-Always and forever!
-Forever and always!
-And ever always!
-Always ever love!
-Love always ever!
-Ever always love!
-This is love!
-Here is love!
-Now is love!
-Love is now!
-Love is here!
-Love is you!
-You are love!
-Love you are!
-Are love you!
-Be love baby!
-Baby be love!
-Love be you!
-You love me!
-Me love you!
-Love each other!
-Each other love!
-Together in love!
-Love together us!
-Us love together!
-Together love us!
-We love us!
-Us we love!
-Love is us!
-We are love!
-Love we are!
-All love!
-Love all!
-All is love!
-Love is all!
-Pudding pop!
-Honey drop!
-Dewdrop!
-Raindrop!
-Sunbeam!
-Moonbeam!
-Starbeam!
-Glitter!
-Sparkle!
-Shimmer!
-Glimmer!
-Twinkle!
-Flicker!
-Glisten!
-Shine on!
-Glow on!
-Radiate!
-Illuminate!
-Dazzle!
-Bedazzle!
-Astound!
-Astonish!
-Amaze us!
-Surprise us!
-Wow us all!
-Impress us!
-Delight us!
-Enchant us!
-Captivate!
-Fascinate!
-Intrigue!
-Interest!
-Engage!
-Involve!
-Include!
-Be part!
-Be here!
-Be you!
-Just be!
-Simply be!
-Freely be!
-Openly be!
-Fully be!
+What color?
+What is it?
+What's that smell?
+What's that?
+What's this?
+Wheee!
+Wheels rolling!
+Where are you?
+Where's baby?
+Where's the duck?
+White cloud!
+White white!
+Whole love!
+Whole wide world!
 Wholly be!
-Truly be!
-Really be!
-Genuinely be!
-Naturally be!
-Authentically!
-Sincerely be!
-Honestly be!
-Purely be!
-Completely be!
-Deeply be!
-Richly be!
-Fully alive!
-Alive alive!
-Living living!
-Thriving now!
-Blooming now!
-Flourishing!
-Growing well!
-Developing well!
-Progressing well!
-Moving along!
-Coming along!
-Getting there!
-On the way!
-On the path!
-On track!
-Right on!
-Right on track!
-On the right!
-Going right!
-Moving right!
-Heading right!
-Aimed right!
-Pointed right!
-Looking right!
-Facing right!
-Turned right!
-Angled right!
-Positioned right!
-Placed right!
-Set right!
-Fixed right!
-Arranged right!
-Organized right!
-Ordered right!
-Aligned right!
-Balanced right!
-Centered right!
-Focused right!
-Directed right!
-Guided right!
-Led right!
-Taken right!
-Brought right!
-Come right!
-Gone right!
-Moved right!
-Traveled right!
-Journeyed right!
-Ventured right!
-Explored right!
-Discovered right!
-Found right!
-Located right!
-Situated right!
-Established right!
-Grounded right!
-Rooted right!
-Planted right!
-Settled right!
-Nestled right!
-Tucked right!
-Cozy right!
-Snug right!
-Comfortable!
-Comfy cozy!
-Cozy comfy!
-Snuggled in!
-Nestled in!
-Settled in!
-Tucked in tight!
+Wholly loved!
+Wide eyes!
+Wide love!
+Wide smile!
+Wider and wider!
+Wiggle it!
+Wiggle wiggle!
+Willingly loved!
+Win in love!
+Winner always!
+Winner baby!
+Winning at life!
+Wipe your face!
+Wiser and wiser!
+Wish and win!
+Wish fulfilled!
+Wish upon!
+Wished for you!
+With grandpa!
+With me now!
+With you always!
+Wobbly walk!
+Wobbly!
+Won't stop!
+Wonder of life!
+Wonder of love!
+Wonderful job!
+Wonderful life!
+Wonderful love!
+Wonderful!
+Wonderfully made!
+Woof woof!
+Words of love!
+Worshipped one!
+Worth everything!
+Wow us all!
+Wrapped in love!
 Wrapped tight!
-Bundled up!
-Bundled tight!
-Swaddled tight!
-Swaddled snug!
-Warm and snug!
-Snug and warm!
-Warm snug cozy!
-Cozy warm snug!
-Snug cozy warm!
-All wrapped!
-Fully wrapped!
-Completely snug!
-Totally cozy!
-Utterly comfy!
-Perfectly snug!
-Ideally warm!
-Optimally cozy!
-Maximally snug!
-Best snuggled!
-Most cozy!
-Coziest ever!
-Snuggest ever!
-Warmest ever!
-Softest ever!
-Gentlest ever!
-Sweetest ever!
-Kindest ever!
-Nicest ever!
-Best ever!
-Greatest ever!
-Grandest ever!
-Finest ever!
-Loveliest ever!
-Dearest ever!
-Closest ever!
-Nearest ever!
-Truest ever!
-Purest ever!
-Clearest ever!
-Brightest ever!
-Shiniest ever!
-Glowiest ever!
-Sparkliest!
-Twinkliest!
-Loveliest!
-Prettiest!
-Cutest ever!
-Sweetest pie!
-Cutie pie!
-Honey pie!
-Sugar pie!
-Apple pie!
-Cherry pie!
-Pumpkin pie!
-Little pumpkin!
-My pumpkin!
-Pumpkin dear!
-Sweet pumpkin!
-Little peach!
-My peach!
-Peach fuzz!
-Soft peach!
-Fuzzy peach!
-Peachy keen!
-Pretty peachy!
-Rosy peach!
-Peachy baby!
-Little muffin!
-My muffin!
+Wriggly toes!
+Yay baby yay!
+Yay!
+Yellow!
+Yes yes yes!
+Yes yes!
+You above all!
+You and me!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are cute!
+You are enough
+You are enough!
+You are here!
+You are home!
+You are love!
+You are loved!
+You are one!
+You are special!
+You came true!
+You can do it!
+You complete me
+You did it!
+You first always!
+You got this!
+You got this!
+You in all!
+You light my life
+You light up room
+You love me!
+You make happy
+You make me smile
+You melt me
+You most of all!
+You my joy
+You my love!
+You my world
+You number one!
+You so cute baby
+You so cute!
+You so funny
+You so gentle
+You so perfect
+You so pretty
+You so special
+You so special baby
+You so strong!
+You're awesome!
+You're funny!
+You're so cute!
+You're the best!
+Young walker!
+Your biggest fan!
+Yummy fruit!
+Yummy milk time
+Yummy or yucky?
+Yummy smell!
+Yummy tummy!
+Yummy yogurt!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yum!
+Yummy yummy!
+Zigzag!
+Zip zip!
