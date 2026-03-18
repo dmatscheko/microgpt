@@ -4,7 +4,7 @@ This file is the complete algorithm.
 Everything else is just efficiency.
 
 @karpathy  |  https://karpathy.ai/microgpt.html
-@dma: checkpointing and resuming training.
+@dma: checkpointing and resuming training, sparse dma4, unused weight zeroing.
 """
 
 import os  # os.path.exists
@@ -32,15 +32,37 @@ ACTIVATION = args.activation
 
 print(f"Using activation function: {ACTIVATION.upper()} in MLP layers")
 
+# ────────────────────────────────────────────────
+#   Define datasets here
+DATASETS = {
+    "names": "https://raw.githubusercontent.com/karpathy/makemore/988aa59/names.txt",  # Names
+    "babystories_20": "",  # 2000 maximum 20 char long baby stories (local so no URL needed)
+    "babystories_40": "",  # 2000 maximum 40 char long baby stories (local so no URL needed)
+    "babystories_100": "",  # 2000 maximum 100 char long baby stories (local so no URL needed)
+    "shakespeare": "https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt",  # Tiny Shakespeare
+    # "wiki":       "https://huggingface.co/datasets/.../raw/...",
+    # "recipes":    "https://...",
+    # add more here...
+}
+SELECTED_NAME = "shakespeare"  # change this to select a different dataset
+
+# Find the matching dataset
+try:
+    dataset_url = DATASETS[SELECTED_NAME]
+except KeyError:
+    print(f"Error: dataset '{SELECTED_NAME}' not found!")
+    exit(1)
+filename = f"input_{SELECTED_NAME}.txt"
+
 # Let there be a Dataset `docs`: list[str] of documents (e.g. a list of names)
-if not os.path.exists("input.txt"):
+if not os.path.exists(filename):
     import urllib.request
 
-    names_url = "https://raw.githubusercontent.com/karpathy/makemore/988aa59/names.txt"
-    urllib.request.urlretrieve(names_url, "input.txt")
-docs = [line.strip() for line in open("input.txt") if line.strip()]
+    urllib.request.urlretrieve(dataset_url, filename)
+docs = [line.strip() for line in open(filename) if line.strip()]
 random.shuffle(docs)
 print(f"num docs: {len(docs)}")
+print(f"example docs: {docs[0]}, {docs[1]}, {docs[2]}")
 
 # Let there be a Tokenizer to translate strings to sequences of integers ("tokens") and back
 if os.path.exists(CHECKPOINT_FILE):
@@ -57,13 +79,14 @@ vocab_size = len(uchars) + 1  # total number of unique tokens, +1 is for BOS
 
 # Let there be Autograd to recursively apply the chain rule through a computation graph
 class Value:
-    __slots__ = ("data", "grad", "_children", "_local_grads")  # Python optimization for memory usage
+    __slots__ = ("data", "grad", "_children", "_local_grads", "param_idx")  # Python optimization for memory usage
 
-    def __init__(self, data, children=(), local_grads=()):
+    def __init__(self, data, children=(), local_grads=(), param_idx=None):
         self.data = data  # scalar value of this node calculated during forward pass
         self.grad = 0  # derivative of the loss w.r.t. this node, calculated in backward pass
         self._children = children  # children of this node in the computation graph
         self._local_grads = local_grads  # local derivative of this node w.r.t. its children
+        self.param_idx = param_idx  # index in the global params list (set for leaf params only)
 
     def __add__(self, other):
         other = other if isinstance(other, Value) else Value(other)
@@ -143,15 +166,7 @@ class Value:
         return self * soft.tanh()
 
     def dma1(self, n=0.25):
-        """DMA1 (custom piecewise linear activation):
-        dma1(z) =
-            0.5z + 0.49n    if z < -n
-            0.01z           if -n <= z < n
-            z - 0.99n       if z >= n
-
-        Default n=0.25 (you can change the default or call .dma1(n=other_value) manually).
-        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
-        """
+        """DMA1 (custom piecewise linear activation)"""
         z = self.data
         if z < -n:
             return Value(0.5 * z + 0.49 * n, (self,), (0.5,))
@@ -161,15 +176,7 @@ class Value:
             return Value(z - 0.99 * n, (self,), (1.0,))
 
     def dma2(self, n=0.25):
-        """DMA2 (custom piecewise linear activation):
-        dma2(z) =
-            0.5z + 0.51n    if z < -n
-            -0.01z          if -n <= z < n
-            z - 1.01n       if z >= n
-
-        Default n=0.25 (you can change the default or call .dma2(n=other_value) manually).
-        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
-        """
+        """DMA2 (custom piecewise linear activation)"""
         z = self.data
         if z < -n:
             return Value(0.5 * z + 0.51 * n, (self,), (0.5,))
@@ -179,16 +186,7 @@ class Value:
             return Value(z - 1.01 * n, (self,), (1.0,))
 
     def dma3(self, n=0.25):
-        """DMA3 (custom piecewise linear activation):
-        dma3(z) =
-            0.5z + 0.51n    if z < -n
-            -0.01z          if -n <= z < 0
-            0.01z           if 0 <= z < n
-            z - 0.99n       if z >= n
-
-        Default n=0.25 (you can change the default or call .dma3(n=other_value) manually).
-        Derivative matches the provided formula (discontinuities at ±n are fine for autograd).
-        """
+        """DMA3 (custom piecewise linear activation)"""
         z = self.data
         if z < -n:
             return Value(0.5 * z + 0.51 * n, (self,), (0.5,))
@@ -199,15 +197,25 @@ class Value:
         else:
             return Value(z - 0.99 * n, (self,), (1.0,))
 
-    def dma4(self, n=0.25):
-        """DMA4 with sparse propagation: the dead zone [-n, n) produces a fully
-        disconnected zero node — no children, no gradient flow.  Only the two
-        outer regions (which have non-zero output) stay wired into the graph."""
+    def dma4(self, n=3.0):
+        """DMA4 with sparse propagation.
+
+        The dead zone [-n, n) produces a fully disconnected zero node —
+        no children, no gradient flow. Only the two outer regions (which
+        have non-zero output) remain wired into the computation graph.
+
+        This means:
+          - Forward pass: zero is propagated for silent neurons (no-op path).
+          - Backward pass: backward() finds no children on dead nodes and
+            stops naturally — weights feeding a dead neuron get zero gradient
+            for this step, so Adam never updates them for this thought.
+        """
         z = self.data
         if z < -n:
             return Value(0.5 * z + 0.5 * n, (self,), (0.5,))
         elif z < n:
-            return Value(0.0)  # <- dead node: no children, backprop stops here
+            # Dead zone: sever the graph — no children, no gradient path.
+            return Value(0.0)
         else:
             return Value(z - 1.0 * n, (self,), (1.0,))
 
@@ -273,7 +281,7 @@ Value.activate = activation_map.get(ACTIVATION, Value.relu)
 # Initialize the parameters, to store the knowledge of the model
 n_layer = 1  # depth of the transformer neural network (number of layers)
 n_embd = 16  # width of the network (embedding dimension)
-block_size = 16  # maximum context length of the attention window (note: the longest name is 15 characters)
+block_size = 70  # maximum context length of the attention window (note: the longest name is 15 characters)
 n_head = 4  # number of attention heads
 head_dim = n_embd // n_head  # derived dimension of each head
 
@@ -292,13 +300,30 @@ def create_model(vsize):
         state_dict[f"layer{i}.mlp_fc1"] = matrix(4 * n_embd, n_embd)
         state_dict[f"layer{i}.mlp_fc2"] = matrix(n_embd, 4 * n_embd)
     params = [p for mat in state_dict.values() for row in mat for p in row]  # flatten params into a single list[Value]
+    # Tag every leaf parameter with its index so we can identify it later
+    for idx, p in enumerate(params):
+        p.param_idx = idx
     print(f"num params: {len(params)}")
     return state_dict, params
 
 
 # Checkpoint helpers
-def save_checkpoint(path, state_dict, uchars, m, v, step):
-    """Serialize model + vocab + Adam state."""
+def save_checkpoint(path, state_dict, uchars, m, v, step, params, ever_used_indices):
+    """Serialize model + vocab + Adam state.
+
+    Before saving, zero out all parameters that were NEVER reached by a
+    non-zero gradient during the entire training run.  These weights never
+    contributed to any 'thought' and are provably dead.
+    """
+    if ACTIVATION == "dma4" and ever_used_indices is not None:
+        total = len(params)
+        zeroed = 0
+        for idx, p in enumerate(params):
+            if idx not in ever_used_indices:
+                p.data = 0.0
+                zeroed += 1
+        print(f"zeroed {zeroed} / {total} never-used parameters ({100 * zeroed / total:.1f}%) before saving")
+
     serialized = {key: [[p.data for p in row] for row in mat] for key, mat in state_dict.items()}
     checkpoint = {
         "uchars": uchars,
@@ -332,8 +357,6 @@ def load_checkpoint(path):
 
 
 # Define the model architecture: a function mapping tokens and parameters to logits over what comes next
-# Follow GPT-2, blessed among the GPTs, with minor differences: layernorm -> rmsnorm, no biases,
-# and a configurable activation function
 def linear(x, w):
     return [sum(wi * xi for wi, xi in zip(wo, x)) for wo in w]
 
@@ -390,8 +413,26 @@ def gpt(token_id, pos_id, keys, values):
     return logits
 
 
+def collect_used_params(params):
+    """After backward(), walk all params and collect those with non-zero grad.
+
+    These are the params that were reachable via a live (non-severed) path in
+    this step's computation graph — i.e. they fed into at least one neuron
+    that fired (dma4 outer region) or any always-connected operation.
+    """
+    used = set()
+    for p in params:
+        if p.grad != 0.0:
+            used.add(p.param_idx)
+    return used
+
+
 # Let there be Adam, the blessed optimizer and its buffers
 learning_rate, beta1, beta2, eps_adam = 0.01, 0.85, 0.99, 1e-8
+
+# Track which parameter indices were ever reached by a non-zero gradient.
+# Only meaningful (and only populated) when using dma4.
+ever_used_indices = set() if ACTIVATION == "dma4" else None
 
 # Initialize or load the model
 if os.path.exists(CHECKPOINT_FILE):
@@ -415,7 +456,7 @@ else:
 
 # Repeat in sequence
 if do_training:
-    num_steps = 1000 + step_start  # extend total steps if resuming
+    num_steps = 32777 + step_start  # extend total steps if resuming
     print(f"Training for {num_steps - step_start} steps (resume from step {step_start})...")
     for step in range(step_start, num_steps):
         # Take single document, tokenize it, surround it with BOS special token on both sides
@@ -434,8 +475,14 @@ if do_training:
             losses.append(loss_t)
         loss = (1 / n) * sum(losses)  # final average loss over the document sequence. May yours be low.
 
-        # Backward the loss, calculating the gradients with respect to all model parameters
+        # Backward the loss, calculating the gradients with respect to all model parameters.
+        # For dma4: dead-zone nodes have no children, so backward() stops at them naturally —
+        # the weights that fed into silent neurons receive zero gradient this step.
         loss.backward()
+
+        # Record which params were actually reached by a non-zero gradient this step (dma4 only)
+        if ever_used_indices is not None:
+            ever_used_indices.update(collect_used_params(params))
 
         # Adam optimizer update: update the model parameters based on the corresponding gradients
         lr_t = learning_rate * (1 - step / num_steps)  # linear learning rate decay
@@ -448,8 +495,15 @@ if do_training:
             p.grad = 0
 
         print(f"step {step + 1:4d} / {num_steps:4d} | loss {loss.data:.4f}", end="\r")
-    # Save checkpoint
-    save_checkpoint(CHECKPOINT_FILE, state_dict, uchars, m, v, num_steps - 1)
+
+    # Report coverage before saving (dma4 only)
+    if ever_used_indices is not None:
+        total = len(params)
+        used = len(ever_used_indices)
+        print(f"\nParam coverage: {used} / {total} params ever activated ({100 * used / total:.1f}%)")
+
+    # Save checkpoint (zeros never-used params when using dma4)
+    save_checkpoint(CHECKPOINT_FILE, state_dict, uchars, m, v, num_steps - 1, params, ever_used_indices)
 
 # Inference: may the model babble back to us
 temperature = 0.5  # in (0, 1], control the "creativity" of generated text, low to high
