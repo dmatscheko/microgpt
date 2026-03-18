@@ -44,7 +44,7 @@ DATASETS = {
     # "recipes":    "https://...",
     # add more here...
 }
-SELECTED_NAME = "shakespeare"  # change this to select a different dataset
+SELECTED_NAME = "babystories_20"  # change this to select a different dataset
 
 # Find the matching dataset
 try:
@@ -281,7 +281,7 @@ Value.activate = activation_map.get(ACTIVATION, Value.relu)
 # Initialize the parameters, to store the knowledge of the model
 n_layer = 1  # depth of the transformer neural network (number of layers)
 n_embd = 16  # width of the network (embedding dimension)
-block_size = 70  # maximum context length of the attention window (note: the longest name is 15 characters)
+block_size = 128  # maximum context length of the attention window (note: the longest name is 15 characters)
 n_head = 4  # number of attention heads
 head_dim = n_embd // n_head  # derived dimension of each head
 
@@ -456,7 +456,7 @@ else:
 
 # Repeat in sequence
 if do_training:
-    num_steps = 32777 + step_start  # extend total steps if resuming
+    num_steps = 2000 + step_start  # extend total steps if resuming # 32777
     print(f"Training for {num_steps - step_start} steps (resume from step {step_start})...")
     for step in range(step_start, num_steps):
         # Take single document, tokenize it, surround it with BOS special token on both sides
